@@ -1,0 +1,1541 @@
+gait,gait_name,commanded_velocity_mps,terrain,terrain_name,terrain_difficulty,realization_pct,realization_robot_std
+0,L.S. Walk,0.5,1,Slope Up,1,100.000,0.000
+0,L.S. Walk,0.5,1,Slope Up,2,100.000,0.000
+0,L.S. Walk,0.5,1,Slope Up,3,100.000,0.000
+0,L.S. Walk,0.5,1,Slope Up,4,100.000,0.000
+0,L.S. Walk,0.5,1,Slope Up,5,99.995,0.044
+0,L.S. Walk,1.0,1,Slope Up,1,100.000,0.000
+0,L.S. Walk,1.0,1,Slope Up,2,100.000,0.000
+0,L.S. Walk,1.0,1,Slope Up,3,100.000,0.000
+0,L.S. Walk,1.0,1,Slope Up,4,100.000,0.000
+0,L.S. Walk,1.0,1,Slope Up,5,100.000,0.000
+0,L.S. Walk,1.5,1,Slope Up,1,100.000,0.000
+0,L.S. Walk,1.5,1,Slope Up,2,100.000,0.000
+0,L.S. Walk,1.5,1,Slope Up,3,100.000,0.000
+0,L.S. Walk,1.5,1,Slope Up,4,100.000,0.000
+0,L.S. Walk,1.5,1,Slope Up,5,99.967,0.226
+0,L.S. Walk,2.0,1,Slope Up,1,100.000,0.000
+0,L.S. Walk,2.0,1,Slope Up,2,100.000,0.000
+0,L.S. Walk,2.0,1,Slope Up,3,100.000,0.000
+0,L.S. Walk,2.0,1,Slope Up,4,100.000,0.000
+0,L.S. Walk,2.0,1,Slope Up,5,100.000,0.000
+0,L.S. Walk,0.5,2,Slope Down,1,100.000,0.000
+0,L.S. Walk,0.5,2,Slope Down,2,99.980,0.160
+0,L.S. Walk,0.5,2,Slope Down,3,99.984,0.156
+0,L.S. Walk,0.5,2,Slope Down,4,99.992,0.078
+0,L.S. Walk,0.5,2,Slope Down,5,99.996,0.040
+0,L.S. Walk,1.0,2,Slope Down,1,100.000,0.000
+0,L.S. Walk,1.0,2,Slope Down,2,100.000,0.000
+0,L.S. Walk,1.0,2,Slope Down,3,100.000,0.000
+0,L.S. Walk,1.0,2,Slope Down,4,99.991,0.087
+0,L.S. Walk,1.0,2,Slope Down,5,99.733,0.407
+0,L.S. Walk,1.5,2,Slope Down,1,100.000,0.000
+0,L.S. Walk,1.5,2,Slope Down,2,100.000,0.000
+0,L.S. Walk,1.5,2,Slope Down,3,100.000,0.000
+0,L.S. Walk,1.5,2,Slope Down,4,99.946,0.264
+0,L.S. Walk,1.5,2,Slope Down,5,99.822,0.501
+0,L.S. Walk,2.0,2,Slope Down,1,100.000,0.000
+0,L.S. Walk,2.0,2,Slope Down,2,100.000,0.000
+0,L.S. Walk,2.0,2,Slope Down,3,100.000,0.000
+0,L.S. Walk,2.0,2,Slope Down,4,98.899,0.877
+0,L.S. Walk,2.0,2,Slope Down,5,99.100,0.984
+0,L.S. Walk,0.5,3,Stairs Up,1,100.000,0.000
+0,L.S. Walk,0.5,3,Stairs Up,2,99.922,0.203
+0,L.S. Walk,0.5,3,Stairs Up,3,99.919,0.179
+0,L.S. Walk,0.5,3,Stairs Up,4,99.923,0.223
+0,L.S. Walk,0.5,3,Stairs Up,5,99.629,0.672
+0,L.S. Walk,1.0,3,Stairs Up,1,100.000,0.000
+0,L.S. Walk,1.0,3,Stairs Up,2,99.945,0.278
+0,L.S. Walk,1.0,3,Stairs Up,3,99.887,0.316
+0,L.S. Walk,1.0,3,Stairs Up,4,99.859,0.362
+0,L.S. Walk,1.0,3,Stairs Up,5,99.872,0.475
+0,L.S. Walk,1.5,3,Stairs Up,1,100.000,0.000
+0,L.S. Walk,1.5,3,Stairs Up,2,100.000,0.000
+0,L.S. Walk,1.5,3,Stairs Up,3,100.000,0.000
+0,L.S. Walk,1.5,3,Stairs Up,4,99.888,0.461
+0,L.S. Walk,1.5,3,Stairs Up,5,99.794,0.792
+0,L.S. Walk,2.0,3,Stairs Up,1,100.000,0.000
+0,L.S. Walk,2.0,3,Stairs Up,2,99.982,0.184
+0,L.S. Walk,2.0,3,Stairs Up,3,100.000,0.000
+0,L.S. Walk,2.0,3,Stairs Up,4,99.891,0.737
+0,L.S. Walk,2.0,3,Stairs Up,5,99.547,1.033
+0,L.S. Walk,0.5,4,Stairs Down,1,100.000,0.000
+0,L.S. Walk,0.5,4,Stairs Down,2,99.988,0.069
+0,L.S. Walk,0.5,4,Stairs Down,3,98.611,0.815
+0,L.S. Walk,0.5,4,Stairs Down,4,98.744,0.796
+0,L.S. Walk,0.5,4,Stairs Down,5,99.134,0.986
+0,L.S. Walk,1.0,4,Stairs Down,1,100.000,0.000
+0,L.S. Walk,1.0,4,Stairs Down,2,99.959,0.177
+0,L.S. Walk,1.0,4,Stairs Down,3,99.937,0.245
+0,L.S. Walk,1.0,4,Stairs Down,4,99.842,0.314
+0,L.S. Walk,1.0,4,Stairs Down,5,99.786,0.477
+0,L.S. Walk,1.5,4,Stairs Down,1,100.000,0.000
+0,L.S. Walk,1.5,4,Stairs Down,2,99.516,0.842
+0,L.S. Walk,1.5,4,Stairs Down,3,97.557,1.660
+0,L.S. Walk,1.5,4,Stairs Down,4,95.277,1.778
+0,L.S. Walk,1.5,4,Stairs Down,5,94.096,2.461
+0,L.S. Walk,2.0,4,Stairs Down,1,100.000,0.000
+0,L.S. Walk,2.0,4,Stairs Down,2,95.798,2.157
+0,L.S. Walk,2.0,4,Stairs Down,3,93.899,3.072
+0,L.S. Walk,2.0,4,Stairs Down,4,94.135,2.721
+0,L.S. Walk,2.0,4,Stairs Down,5,93.477,3.117
+0,L.S. Walk,0.5,5,Gaps,1,99.643,0.365
+0,L.S. Walk,0.5,5,Gaps,2,91.247,0.983
+0,L.S. Walk,0.5,5,Gaps,3,85.796,1.447
+0,L.S. Walk,0.5,5,Gaps,4,75.553,2.018
+0,L.S. Walk,0.5,5,Gaps,5,72.921,2.221
+0,L.S. Walk,1.0,5,Gaps,1,99.500,0.662
+0,L.S. Walk,1.0,5,Gaps,2,95.768,1.289
+0,L.S. Walk,1.0,5,Gaps,3,86.018,2.607
+0,L.S. Walk,1.0,5,Gaps,4,69.686,0.397
+0,L.S. Walk,1.0,5,Gaps,5,63.119,1.397
+0,L.S. Walk,1.5,5,Gaps,1,99.034,1.108
+0,L.S. Walk,1.5,5,Gaps,2,95.723,1.838
+0,L.S. Walk,1.5,5,Gaps,3,79.218,2.456
+0,L.S. Walk,1.5,5,Gaps,4,58.075,1.493
+0,L.S. Walk,1.5,5,Gaps,5,55.449,0.718
+0,L.S. Walk,2.0,5,Gaps,1,99.268,1.046
+0,L.S. Walk,2.0,5,Gaps,2,91.424,3.079
+0,L.S. Walk,2.0,5,Gaps,3,79.445,4.407
+0,L.S. Walk,2.0,5,Gaps,4,63.993,1.643
+0,L.S. Walk,2.0,5,Gaps,5,58.875,2.526
+0,L.S. Walk,0.5,6,Rough,1,99.950,0.161
+0,L.S. Walk,0.5,6,Rough,2,98.979,0.798
+0,L.S. Walk,0.5,6,Rough,3,97.384,1.397
+0,L.S. Walk,0.5,6,Rough,4,95.947,1.570
+0,L.S. Walk,0.5,6,Rough,5,94.850,1.923
+0,L.S. Walk,1.0,6,Rough,1,99.896,0.260
+0,L.S. Walk,1.0,6,Rough,2,98.947,1.174
+0,L.S. Walk,1.0,6,Rough,3,97.494,1.905
+0,L.S. Walk,1.0,6,Rough,4,95.462,3.001
+0,L.S. Walk,1.0,6,Rough,5,94.382,2.568
+0,L.S. Walk,1.5,6,Rough,1,99.929,0.332
+0,L.S. Walk,1.5,6,Rough,2,98.952,1.197
+0,L.S. Walk,1.5,6,Rough,3,97.336,2.257
+0,L.S. Walk,1.5,6,Rough,4,94.647,3.130
+0,L.S. Walk,1.5,6,Rough,5,92.658,3.344
+0,L.S. Walk,2.0,6,Rough,1,99.847,0.490
+0,L.S. Walk,2.0,6,Rough,2,98.567,1.677
+0,L.S. Walk,2.0,6,Rough,3,97.126,2.353
+0,L.S. Walk,2.0,6,Rough,4,94.325,3.967
+0,L.S. Walk,2.0,6,Rough,5,91.381,4.955
+0,L.S. Walk,0.5,7,Mixed Blocks,1,99.938,0.189
+0,L.S. Walk,0.5,7,Mixed Blocks,2,99.895,0.236
+0,L.S. Walk,0.5,7,Mixed Blocks,3,99.524,0.997
+0,L.S. Walk,0.5,7,Mixed Blocks,4,99.462,0.723
+0,L.S. Walk,0.5,7,Mixed Blocks,5,99.141,1.050
+0,L.S. Walk,1.0,7,Mixed Blocks,1,99.909,0.313
+0,L.S. Walk,1.0,7,Mixed Blocks,2,99.836,0.626
+0,L.S. Walk,1.0,7,Mixed Blocks,3,99.322,1.805
+0,L.S. Walk,1.0,7,Mixed Blocks,4,99.184,1.318
+0,L.S. Walk,1.0,7,Mixed Blocks,5,98.457,2.381
+0,L.S. Walk,1.5,7,Mixed Blocks,1,99.917,0.308
+0,L.S. Walk,1.5,7,Mixed Blocks,2,99.692,0.624
+0,L.S. Walk,1.5,7,Mixed Blocks,3,98.863,2.151
+0,L.S. Walk,1.5,7,Mixed Blocks,4,98.606,1.915
+0,L.S. Walk,1.5,7,Mixed Blocks,5,97.770,2.698
+0,L.S. Walk,2.0,7,Mixed Blocks,1,99.812,0.644
+0,L.S. Walk,2.0,7,Mixed Blocks,2,99.146,1.539
+0,L.S. Walk,2.0,7,Mixed Blocks,3,97.166,3.977
+0,L.S. Walk,2.0,7,Mixed Blocks,4,97.259,2.852
+0,L.S. Walk,2.0,7,Mixed Blocks,5,97.128,2.939
+1,D.S. Walk,0.5,1,Slope Up,1,100.000,0.000
+1,D.S. Walk,0.5,1,Slope Up,2,100.000,0.000
+1,D.S. Walk,0.5,1,Slope Up,3,100.000,0.000
+1,D.S. Walk,0.5,1,Slope Up,4,100.000,0.000
+1,D.S. Walk,0.5,1,Slope Up,5,100.000,0.000
+1,D.S. Walk,1.0,1,Slope Up,1,100.000,0.000
+1,D.S. Walk,1.0,1,Slope Up,2,100.000,0.000
+1,D.S. Walk,1.0,1,Slope Up,3,100.000,0.000
+1,D.S. Walk,1.0,1,Slope Up,4,100.000,0.000
+1,D.S. Walk,1.0,1,Slope Up,5,99.991,0.088
+1,D.S. Walk,1.5,1,Slope Up,1,100.000,0.000
+1,D.S. Walk,1.5,1,Slope Up,2,100.000,0.000
+1,D.S. Walk,1.5,1,Slope Up,3,100.000,0.000
+1,D.S. Walk,1.5,1,Slope Up,4,99.971,0.203
+1,D.S. Walk,1.5,1,Slope Up,5,99.941,0.284
+1,D.S. Walk,2.0,1,Slope Up,1,100.000,0.000
+1,D.S. Walk,2.0,1,Slope Up,2,100.000,0.000
+1,D.S. Walk,2.0,1,Slope Up,3,100.000,0.000
+1,D.S. Walk,2.0,1,Slope Up,4,100.000,0.000
+1,D.S. Walk,2.0,1,Slope Up,5,99.928,0.350
+1,D.S. Walk,0.5,2,Slope Down,1,100.000,0.000
+1,D.S. Walk,0.5,2,Slope Down,2,100.000,0.000
+1,D.S. Walk,0.5,2,Slope Down,3,100.000,0.000
+1,D.S. Walk,0.5,2,Slope Down,4,100.000,0.000
+1,D.S. Walk,0.5,2,Slope Down,5,99.816,0.234
+1,D.S. Walk,1.0,2,Slope Down,1,100.000,0.000
+1,D.S. Walk,1.0,2,Slope Down,2,100.000,0.000
+1,D.S. Walk,1.0,2,Slope Down,3,100.000,0.000
+1,D.S. Walk,1.0,2,Slope Down,4,99.965,0.210
+1,D.S. Walk,1.0,2,Slope Down,5,99.890,0.332
+1,D.S. Walk,1.5,2,Slope Down,1,100.000,0.000
+1,D.S. Walk,1.5,2,Slope Down,2,100.000,0.000
+1,D.S. Walk,1.5,2,Slope Down,3,100.000,0.000
+1,D.S. Walk,1.5,2,Slope Down,4,99.786,0.487
+1,D.S. Walk,1.5,2,Slope Down,5,98.634,1.012
+1,D.S. Walk,2.0,2,Slope Down,1,100.000,0.000
+1,D.S. Walk,2.0,2,Slope Down,2,100.000,0.000
+1,D.S. Walk,2.0,2,Slope Down,3,100.000,0.000
+1,D.S. Walk,2.0,2,Slope Down,4,99.709,0.641
+1,D.S. Walk,2.0,2,Slope Down,5,99.064,1.261
+1,D.S. Walk,0.5,3,Stairs Up,1,100.000,0.000
+1,D.S. Walk,0.5,3,Stairs Up,2,100.000,0.000
+1,D.S. Walk,0.5,3,Stairs Up,3,99.877,0.247
+1,D.S. Walk,0.5,3,Stairs Up,4,99.334,0.631
+1,D.S. Walk,0.5,3,Stairs Up,5,98.208,0.976
+1,D.S. Walk,1.0,3,Stairs Up,1,100.000,0.000
+1,D.S. Walk,1.0,3,Stairs Up,2,100.000,0.000
+1,D.S. Walk,1.0,3,Stairs Up,3,99.936,0.234
+1,D.S. Walk,1.0,3,Stairs Up,4,99.669,0.564
+1,D.S. Walk,1.0,3,Stairs Up,5,99.541,0.832
+1,D.S. Walk,1.5,3,Stairs Up,1,100.000,0.000
+1,D.S. Walk,1.5,3,Stairs Up,2,99.970,0.211
+1,D.S. Walk,1.5,3,Stairs Up,3,99.777,0.528
+1,D.S. Walk,1.5,3,Stairs Up,4,98.878,1.426
+1,D.S. Walk,1.5,3,Stairs Up,5,97.334,1.721
+1,D.S. Walk,2.0,3,Stairs Up,1,100.000,0.000
+1,D.S. Walk,2.0,3,Stairs Up,2,100.000,0.000
+1,D.S. Walk,2.0,3,Stairs Up,3,99.982,0.169
+1,D.S. Walk,2.0,3,Stairs Up,4,98.551,1.701
+1,D.S. Walk,2.0,3,Stairs Up,5,95.228,3.274
+1,D.S. Walk,0.5,4,Stairs Down,1,100.000,0.000
+1,D.S. Walk,0.5,4,Stairs Down,2,99.985,0.073
+1,D.S. Walk,0.5,4,Stairs Down,3,99.822,0.265
+1,D.S. Walk,0.5,4,Stairs Down,4,99.748,0.359
+1,D.S. Walk,0.5,4,Stairs Down,5,99.291,0.873
+1,D.S. Walk,1.0,4,Stairs Down,1,99.992,0.078
+1,D.S. Walk,1.0,4,Stairs Down,2,98.514,1.144
+1,D.S. Walk,1.0,4,Stairs Down,3,93.666,1.662
+1,D.S. Walk,1.0,4,Stairs Down,4,98.632,1.704
+1,D.S. Walk,1.0,4,Stairs Down,5,98.063,1.306
+1,D.S. Walk,1.5,4,Stairs Down,1,99.681,0.621
+1,D.S. Walk,1.5,4,Stairs Down,2,95.810,2.021
+1,D.S. Walk,1.5,4,Stairs Down,3,88.142,2.440
+1,D.S. Walk,1.5,4,Stairs Down,4,88.573,2.381
+1,D.S. Walk,1.5,4,Stairs Down,5,91.709,2.292
+1,D.S. Walk,2.0,4,Stairs Down,1,99.315,0.937
+1,D.S. Walk,2.0,4,Stairs Down,2,94.432,2.263
+1,D.S. Walk,2.0,4,Stairs Down,3,82.561,4.835
+1,D.S. Walk,2.0,4,Stairs Down,4,83.988,3.821
+1,D.S. Walk,2.0,4,Stairs Down,5,81.964,3.907
+1,D.S. Walk,0.5,5,Gaps,1,99.299,0.554
+1,D.S. Walk,0.5,5,Gaps,2,92.950,1.272
+1,D.S. Walk,0.5,5,Gaps,3,84.314,1.544
+1,D.S. Walk,0.5,5,Gaps,4,81.442,1.229
+1,D.S. Walk,0.5,5,Gaps,5,78.346,0.542
+1,D.S. Walk,1.0,5,Gaps,1,95.538,2.525
+1,D.S. Walk,1.0,5,Gaps,2,92.901,2.193
+1,D.S. Walk,1.0,5,Gaps,3,74.964,1.740
+1,D.S. Walk,1.0,5,Gaps,4,69.609,0.541
+1,D.S. Walk,1.0,5,Gaps,5,70.273,1.498
+1,D.S. Walk,1.5,5,Gaps,1,99.377,0.801
+1,D.S. Walk,1.5,5,Gaps,2,90.918,2.081
+1,D.S. Walk,1.5,5,Gaps,3,74.906,2.082
+1,D.S. Walk,1.5,5,Gaps,4,65.122,1.012
+1,D.S. Walk,1.5,5,Gaps,5,62.691,2.120
+1,D.S. Walk,2.0,5,Gaps,1,97.815,1.771
+1,D.S. Walk,2.0,5,Gaps,2,83.763,1.469
+1,D.S. Walk,2.0,5,Gaps,3,70.014,1.463
+1,D.S. Walk,2.0,5,Gaps,4,61.331,1.750
+1,D.S. Walk,2.0,5,Gaps,5,57.434,1.525
+1,D.S. Walk,0.5,6,Rough,1,99.945,0.160
+1,D.S. Walk,0.5,6,Rough,2,99.219,0.796
+1,D.S. Walk,0.5,6,Rough,3,97.900,1.114
+1,D.S. Walk,0.5,6,Rough,4,95.995,1.653
+1,D.S. Walk,0.5,6,Rough,5,94.668,2.147
+1,D.S. Walk,1.0,6,Rough,1,99.962,0.202
+1,D.S. Walk,1.0,6,Rough,2,98.904,1.173
+1,D.S. Walk,1.0,6,Rough,3,97.841,1.705
+1,D.S. Walk,1.0,6,Rough,4,95.786,2.451
+1,D.S. Walk,1.0,6,Rough,5,94.620,2.545
+1,D.S. Walk,1.5,6,Rough,1,99.925,0.298
+1,D.S. Walk,1.5,6,Rough,2,98.884,1.360
+1,D.S. Walk,1.5,6,Rough,3,97.389,2.064
+1,D.S. Walk,1.5,6,Rough,4,94.419,3.158
+1,D.S. Walk,1.5,6,Rough,5,93.490,3.512
+1,D.S. Walk,2.0,6,Rough,1,99.792,0.623
+1,D.S. Walk,2.0,6,Rough,2,98.262,1.896
+1,D.S. Walk,2.0,6,Rough,3,96.971,2.280
+1,D.S. Walk,2.0,6,Rough,4,94.404,3.962
+1,D.S. Walk,2.0,6,Rough,5,90.836,5.060
+1,D.S. Walk,0.5,7,Mixed Blocks,1,99.978,0.103
+1,D.S. Walk,0.5,7,Mixed Blocks,2,99.898,0.223
+1,D.S. Walk,0.5,7,Mixed Blocks,3,99.624,0.585
+1,D.S. Walk,0.5,7,Mixed Blocks,4,99.268,0.951
+1,D.S. Walk,0.5,7,Mixed Blocks,5,98.793,1.284
+1,D.S. Walk,1.0,7,Mixed Blocks,1,99.899,0.261
+1,D.S. Walk,1.0,7,Mixed Blocks,2,99.768,0.654
+1,D.S. Walk,1.0,7,Mixed Blocks,3,99.394,1.129
+1,D.S. Walk,1.0,7,Mixed Blocks,4,99.134,1.344
+1,D.S. Walk,1.0,7,Mixed Blocks,5,98.188,2.042
+1,D.S. Walk,1.5,7,Mixed Blocks,1,99.975,0.177
+1,D.S. Walk,1.5,7,Mixed Blocks,2,99.478,1.550
+1,D.S. Walk,1.5,7,Mixed Blocks,3,98.307,2.714
+1,D.S. Walk,1.5,7,Mixed Blocks,4,97.337,3.684
+1,D.S. Walk,1.5,7,Mixed Blocks,5,97.441,2.628
+1,D.S. Walk,2.0,7,Mixed Blocks,1,99.897,0.410
+1,D.S. Walk,2.0,7,Mixed Blocks,2,98.679,2.063
+1,D.S. Walk,2.0,7,Mixed Blocks,3,96.720,4.312
+1,D.S. Walk,2.0,7,Mixed Blocks,4,96.456,3.669
+1,D.S. Walk,2.0,7,Mixed Blocks,5,96.310,3.350
+2,Amble,0.5,1,Slope Up,1,100.000,0.000
+2,Amble,0.5,1,Slope Up,2,100.000,0.000
+2,Amble,0.5,1,Slope Up,3,100.000,0.000
+2,Amble,0.5,1,Slope Up,4,100.000,0.000
+2,Amble,0.5,1,Slope Up,5,100.000,0.000
+2,Amble,1.0,1,Slope Up,1,100.000,0.000
+2,Amble,1.0,1,Slope Up,2,100.000,0.000
+2,Amble,1.0,1,Slope Up,3,100.000,0.000
+2,Amble,1.0,1,Slope Up,4,100.000,0.000
+2,Amble,1.0,1,Slope Up,5,99.991,0.084
+2,Amble,1.5,1,Slope Up,1,100.000,0.000
+2,Amble,1.5,1,Slope Up,2,100.000,0.000
+2,Amble,1.5,1,Slope Up,3,99.972,0.273
+2,Amble,1.5,1,Slope Up,4,99.971,0.276
+2,Amble,1.5,1,Slope Up,5,99.971,0.293
+2,Amble,2.0,1,Slope Up,1,100.000,0.000
+2,Amble,2.0,1,Slope Up,2,100.000,0.000
+2,Amble,2.0,1,Slope Up,3,100.000,0.000
+2,Amble,2.0,1,Slope Up,4,99.981,0.184
+2,Amble,2.0,1,Slope Up,5,99.982,0.181
+2,Amble,0.5,2,Slope Down,1,100.000,0.000
+2,Amble,0.5,2,Slope Down,2,100.000,0.000
+2,Amble,0.5,2,Slope Down,3,100.000,0.000
+2,Amble,0.5,2,Slope Down,4,100.000,0.000
+2,Amble,0.5,2,Slope Down,5,99.986,0.067
+2,Amble,1.0,2,Slope Down,1,100.000,0.000
+2,Amble,1.0,2,Slope Down,2,100.000,0.000
+2,Amble,1.0,2,Slope Down,3,100.000,0.000
+2,Amble,1.0,2,Slope Down,4,100.000,0.000
+2,Amble,1.0,2,Slope Down,5,99.958,0.180
+2,Amble,1.5,2,Slope Down,1,100.000,0.000
+2,Amble,1.5,2,Slope Down,2,100.000,0.000
+2,Amble,1.5,2,Slope Down,3,100.000,0.000
+2,Amble,1.5,2,Slope Down,4,99.581,0.777
+2,Amble,1.5,2,Slope Down,5,99.522,0.823
+2,Amble,2.0,2,Slope Down,1,100.000,0.000
+2,Amble,2.0,2,Slope Down,2,100.000,0.000
+2,Amble,2.0,2,Slope Down,3,99.863,0.466
+2,Amble,2.0,2,Slope Down,4,99.207,1.069
+2,Amble,2.0,2,Slope Down,5,96.903,2.180
+2,Amble,0.5,3,Stairs Up,1,100.000,0.000
+2,Amble,0.5,3,Stairs Up,2,100.000,0.000
+2,Amble,0.5,3,Stairs Up,3,99.951,0.153
+2,Amble,0.5,3,Stairs Up,4,99.673,0.412
+2,Amble,0.5,3,Stairs Up,5,99.694,0.507
+2,Amble,1.0,3,Stairs Up,1,100.000,0.000
+2,Amble,1.0,3,Stairs Up,2,100.000,0.000
+2,Amble,1.0,3,Stairs Up,3,99.963,0.214
+2,Amble,1.0,3,Stairs Up,4,99.909,0.276
+2,Amble,1.0,3,Stairs Up,5,99.765,0.639
+2,Amble,1.5,3,Stairs Up,1,100.000,0.000
+2,Amble,1.5,3,Stairs Up,2,99.748,0.555
+2,Amble,1.5,3,Stairs Up,3,100.000,0.000
+2,Amble,1.5,3,Stairs Up,4,99.879,0.452
+2,Amble,1.5,3,Stairs Up,5,98.767,1.551
+2,Amble,2.0,3,Stairs Up,1,100.000,0.000
+2,Amble,2.0,3,Stairs Up,2,99.874,0.535
+2,Amble,2.0,3,Stairs Up,3,99.749,0.869
+2,Amble,2.0,3,Stairs Up,4,99.450,1.135
+2,Amble,2.0,3,Stairs Up,5,98.909,2.202
+2,Amble,0.5,4,Stairs Down,1,100.000,0.000
+2,Amble,0.5,4,Stairs Down,2,99.996,0.038
+2,Amble,0.5,4,Stairs Down,3,99.747,0.355
+2,Amble,0.5,4,Stairs Down,4,99.567,0.427
+2,Amble,0.5,4,Stairs Down,5,99.498,0.622
+2,Amble,1.0,4,Stairs Down,1,99.992,0.076
+2,Amble,1.0,4,Stairs Down,2,99.205,0.698
+2,Amble,1.0,4,Stairs Down,3,99.052,0.874
+2,Amble,1.0,4,Stairs Down,4,99.329,0.690
+2,Amble,1.0,4,Stairs Down,5,98.657,0.884
+2,Amble,1.5,4,Stairs Down,1,99.739,0.519
+2,Amble,1.5,4,Stairs Down,2,96.470,1.796
+2,Amble,1.5,4,Stairs Down,3,92.511,2.075
+2,Amble,1.5,4,Stairs Down,4,92.149,2.375
+2,Amble,1.5,4,Stairs Down,5,93.104,2.092
+2,Amble,2.0,4,Stairs Down,1,98.852,1.116
+2,Amble,2.0,4,Stairs Down,2,94.366,2.575
+2,Amble,2.0,4,Stairs Down,3,86.207,5.370
+2,Amble,2.0,4,Stairs Down,4,86.109,3.781
+2,Amble,2.0,4,Stairs Down,5,85.270,4.493
+2,Amble,0.5,5,Gaps,1,99.640,0.382
+2,Amble,0.5,5,Gaps,2,92.410,1.448
+2,Amble,0.5,5,Gaps,3,85.217,1.159
+2,Amble,0.5,5,Gaps,4,79.802,0.989
+2,Amble,0.5,5,Gaps,5,78.358,0.323
+2,Amble,1.0,5,Gaps,1,98.474,1.189
+2,Amble,1.0,5,Gaps,2,96.263,1.483
+2,Amble,1.0,5,Gaps,3,81.527,1.846
+2,Amble,1.0,5,Gaps,4,69.809,0.263
+2,Amble,1.0,5,Gaps,5,70.721,0.504
+2,Amble,1.5,5,Gaps,1,99.437,0.810
+2,Amble,1.5,5,Gaps,2,92.359,1.700
+2,Amble,1.5,5,Gaps,3,76.670,1.774
+2,Amble,1.5,5,Gaps,4,65.831,0.769
+2,Amble,1.5,5,Gaps,5,62.124,1.933
+2,Amble,2.0,5,Gaps,1,98.216,1.578
+2,Amble,2.0,5,Gaps,2,84.781,2.078
+2,Amble,2.0,5,Gaps,3,69.176,1.946
+2,Amble,2.0,5,Gaps,4,64.110,2.064
+2,Amble,2.0,5,Gaps,5,58.134,2.040
+2,Amble,0.5,6,Rough,1,99.929,0.214
+2,Amble,0.5,6,Rough,2,98.838,0.903
+2,Amble,0.5,6,Rough,3,97.553,1.285
+2,Amble,0.5,6,Rough,4,95.548,1.813
+2,Amble,0.5,6,Rough,5,94.535,1.920
+2,Amble,1.0,6,Rough,1,99.949,0.213
+2,Amble,1.0,6,Rough,2,98.903,1.131
+2,Amble,1.0,6,Rough,3,97.096,1.802
+2,Amble,1.0,6,Rough,4,95.525,2.247
+2,Amble,1.0,6,Rough,5,93.829,2.777
+2,Amble,1.5,6,Rough,1,99.917,0.303
+2,Amble,1.5,6,Rough,2,98.716,1.372
+2,Amble,1.5,6,Rough,3,97.185,2.257
+2,Amble,1.5,6,Rough,4,94.796,3.393
+2,Amble,1.5,6,Rough,5,92.757,3.472
+2,Amble,2.0,6,Rough,1,99.863,0.465
+2,Amble,2.0,6,Rough,2,98.395,1.575
+2,Amble,2.0,6,Rough,3,96.564,2.732
+2,Amble,2.0,6,Rough,4,93.617,4.091
+2,Amble,2.0,6,Rough,5,90.403,5.617
+2,Amble,0.5,7,Mixed Blocks,1,99.945,0.131
+2,Amble,0.5,7,Mixed Blocks,2,99.839,0.474
+2,Amble,0.5,7,Mixed Blocks,3,99.516,0.947
+2,Amble,0.5,7,Mixed Blocks,4,99.247,1.113
+2,Amble,0.5,7,Mixed Blocks,5,99.097,0.963
+2,Amble,1.0,7,Mixed Blocks,1,99.875,0.422
+2,Amble,1.0,7,Mixed Blocks,2,99.797,0.537
+2,Amble,1.0,7,Mixed Blocks,3,99.366,1.086
+2,Amble,1.0,7,Mixed Blocks,4,98.895,1.251
+2,Amble,1.0,7,Mixed Blocks,5,98.540,2.156
+2,Amble,1.5,7,Mixed Blocks,1,99.964,0.205
+2,Amble,1.5,7,Mixed Blocks,2,99.163,1.906
+2,Amble,1.5,7,Mixed Blocks,3,98.589,1.684
+2,Amble,1.5,7,Mixed Blocks,4,98.172,2.218
+2,Amble,1.5,7,Mixed Blocks,5,97.362,2.973
+2,Amble,2.0,7,Mixed Blocks,1,99.829,0.514
+2,Amble,2.0,7,Mixed Blocks,2,98.903,1.710
+2,Amble,2.0,7,Mixed Blocks,3,97.292,3.266
+2,Amble,2.0,7,Mixed Blocks,4,96.196,3.859
+2,Amble,2.0,7,Mixed Blocks,5,95.635,3.693
+3,Trot,0.5,1,Slope Up,1,100.000,0.000
+3,Trot,0.5,1,Slope Up,2,100.000,0.000
+3,Trot,0.5,1,Slope Up,3,100.000,0.000
+3,Trot,0.5,1,Slope Up,4,100.000,0.000
+3,Trot,0.5,1,Slope Up,5,100.000,0.000
+3,Trot,1.0,1,Slope Up,1,100.000,0.000
+3,Trot,1.0,1,Slope Up,2,100.000,0.000
+3,Trot,1.0,1,Slope Up,3,100.000,0.000
+3,Trot,1.0,1,Slope Up,4,100.000,0.000
+3,Trot,1.0,1,Slope Up,5,99.989,0.111
+3,Trot,1.5,1,Slope Up,1,100.000,0.000
+3,Trot,1.5,1,Slope Up,2,100.000,0.000
+3,Trot,1.5,1,Slope Up,3,100.000,0.000
+3,Trot,1.5,1,Slope Up,4,100.000,0.000
+3,Trot,1.5,1,Slope Up,5,99.938,0.376
+3,Trot,2.0,1,Slope Up,1,100.000,0.000
+3,Trot,2.0,1,Slope Up,2,100.000,0.000
+3,Trot,2.0,1,Slope Up,3,99.600,0.766
+3,Trot,2.0,1,Slope Up,4,99.086,1.372
+3,Trot,2.0,1,Slope Up,5,99.143,0.970
+3,Trot,0.5,2,Slope Down,1,100.000,0.000
+3,Trot,0.5,2,Slope Down,2,100.000,0.000
+3,Trot,0.5,2,Slope Down,3,100.000,0.000
+3,Trot,0.5,2,Slope Down,4,100.000,0.000
+3,Trot,0.5,2,Slope Down,5,99.978,0.098
+3,Trot,1.0,2,Slope Down,1,100.000,0.000
+3,Trot,1.0,2,Slope Down,2,100.000,0.000
+3,Trot,1.0,2,Slope Down,3,100.000,0.000
+3,Trot,1.0,2,Slope Down,4,99.966,0.207
+3,Trot,1.0,2,Slope Down,5,99.581,0.494
+3,Trot,1.5,2,Slope Down,1,100.000,0.000
+3,Trot,1.5,2,Slope Down,2,100.000,0.000
+3,Trot,1.5,2,Slope Down,3,100.000,0.000
+3,Trot,1.5,2,Slope Down,4,99.925,0.296
+3,Trot,1.5,2,Slope Down,5,99.820,0.516
+3,Trot,2.0,2,Slope Down,1,100.000,0.000
+3,Trot,2.0,2,Slope Down,2,100.000,0.000
+3,Trot,2.0,2,Slope Down,3,100.000,0.000
+3,Trot,2.0,2,Slope Down,4,99.916,0.363
+3,Trot,2.0,2,Slope Down,5,99.614,0.706
+3,Trot,0.5,3,Stairs Up,1,100.000,0.000
+3,Trot,0.5,3,Stairs Up,2,99.965,0.128
+3,Trot,0.5,3,Stairs Up,3,99.969,0.122
+3,Trot,0.5,3,Stairs Up,4,99.937,0.195
+3,Trot,0.5,3,Stairs Up,5,99.937,0.223
+3,Trot,1.0,3,Stairs Up,1,100.000,0.000
+3,Trot,1.0,3,Stairs Up,2,99.768,0.444
+3,Trot,1.0,3,Stairs Up,3,99.826,0.439
+3,Trot,1.0,3,Stairs Up,4,99.987,0.121
+3,Trot,1.0,3,Stairs Up,5,99.791,0.708
+3,Trot,1.5,3,Stairs Up,1,100.000,0.000
+3,Trot,1.5,3,Stairs Up,2,100.000,0.000
+3,Trot,1.5,3,Stairs Up,3,98.662,0.606
+3,Trot,1.5,3,Stairs Up,4,99.565,0.716
+3,Trot,1.5,3,Stairs Up,5,100.000,0.000
+3,Trot,2.0,3,Stairs Up,1,100.000,0.000
+3,Trot,2.0,3,Stairs Up,2,99.964,0.255
+3,Trot,2.0,3,Stairs Up,3,99.415,0.895
+3,Trot,2.0,3,Stairs Up,4,99.405,1.041
+3,Trot,2.0,3,Stairs Up,5,98.894,1.008
+3,Trot,0.5,4,Stairs Down,1,100.000,0.000
+3,Trot,0.5,4,Stairs Down,2,99.979,0.089
+3,Trot,0.5,4,Stairs Down,3,99.525,0.437
+3,Trot,0.5,4,Stairs Down,4,99.761,0.324
+3,Trot,0.5,4,Stairs Down,5,99.670,0.443
+3,Trot,1.0,4,Stairs Down,1,100.000,0.000
+3,Trot,1.0,4,Stairs Down,2,99.825,0.360
+3,Trot,1.0,4,Stairs Down,3,99.454,0.540
+3,Trot,1.0,4,Stairs Down,4,99.287,0.795
+3,Trot,1.0,4,Stairs Down,5,99.034,0.672
+3,Trot,1.5,4,Stairs Down,1,100.000,0.000
+3,Trot,1.5,4,Stairs Down,2,99.499,0.825
+3,Trot,1.5,4,Stairs Down,3,97.516,1.587
+3,Trot,1.5,4,Stairs Down,4,94.007,1.984
+3,Trot,1.5,4,Stairs Down,5,94.872,1.974
+3,Trot,2.0,4,Stairs Down,1,99.931,0.338
+3,Trot,2.0,4,Stairs Down,2,99.256,1.092
+3,Trot,2.0,4,Stairs Down,3,98.925,1.622
+3,Trot,2.0,4,Stairs Down,4,96.862,2.128
+3,Trot,2.0,4,Stairs Down,5,91.764,3.306
+3,Trot,0.5,5,Gaps,1,98.931,0.649
+3,Trot,0.5,5,Gaps,2,89.982,1.359
+3,Trot,0.5,5,Gaps,3,80.531,1.228
+3,Trot,0.5,5,Gaps,4,77.297,1.758
+3,Trot,0.5,5,Gaps,5,77.664,0.764
+3,Trot,1.0,5,Gaps,1,97.978,1.011
+3,Trot,1.0,5,Gaps,2,90.077,1.207
+3,Trot,1.0,5,Gaps,3,80.035,0.664
+3,Trot,1.0,5,Gaps,4,67.808,1.613
+3,Trot,1.0,5,Gaps,5,63.556,1.908
+3,Trot,1.5,5,Gaps,1,98.551,1.115
+3,Trot,1.5,5,Gaps,2,91.365,1.688
+3,Trot,1.5,5,Gaps,3,79.594,2.246
+3,Trot,1.5,5,Gaps,4,61.587,1.610
+3,Trot,1.5,5,Gaps,5,56.642,1.031
+3,Trot,2.0,5,Gaps,1,97.006,1.589
+3,Trot,2.0,5,Gaps,2,93.157,2.248
+3,Trot,2.0,5,Gaps,3,78.148,2.441
+3,Trot,2.0,5,Gaps,4,60.402,2.857
+3,Trot,2.0,5,Gaps,5,54.902,1.836
+3,Trot,0.5,6,Rough,1,99.942,0.167
+3,Trot,0.5,6,Rough,2,99.097,0.812
+3,Trot,0.5,6,Rough,3,97.841,1.255
+3,Trot,0.5,6,Rough,4,96.043,1.833
+3,Trot,0.5,6,Rough,5,94.977,2.024
+3,Trot,1.0,6,Rough,1,99.977,0.132
+3,Trot,1.0,6,Rough,2,99.018,1.012
+3,Trot,1.0,6,Rough,3,97.582,1.583
+3,Trot,1.0,6,Rough,4,95.492,2.282
+3,Trot,1.0,6,Rough,5,94.349,2.341
+3,Trot,1.5,6,Rough,1,99.867,0.449
+3,Trot,1.5,6,Rough,2,99.039,1.615
+3,Trot,1.5,6,Rough,3,97.357,2.462
+3,Trot,1.5,6,Rough,4,95.007,3.185
+3,Trot,1.5,6,Rough,5,92.659,4.210
+3,Trot,2.0,6,Rough,1,99.933,0.338
+3,Trot,2.0,6,Rough,2,98.708,1.912
+3,Trot,2.0,6,Rough,3,96.913,2.639
+3,Trot,2.0,6,Rough,4,94.154,4.245
+3,Trot,2.0,6,Rough,5,89.880,6.022
+3,Trot,0.5,7,Mixed Blocks,1,99.964,0.128
+3,Trot,0.5,7,Mixed Blocks,2,99.804,0.413
+3,Trot,0.5,7,Mixed Blocks,3,99.546,0.860
+3,Trot,0.5,7,Mixed Blocks,4,99.157,1.391
+3,Trot,0.5,7,Mixed Blocks,5,98.995,1.121
+3,Trot,1.0,7,Mixed Blocks,1,99.977,0.135
+3,Trot,1.0,7,Mixed Blocks,2,99.634,1.403
+3,Trot,1.0,7,Mixed Blocks,3,99.253,1.437
+3,Trot,1.0,7,Mixed Blocks,4,98.784,1.723
+3,Trot,1.0,7,Mixed Blocks,5,98.189,1.959
+3,Trot,1.5,7,Mixed Blocks,1,99.988,0.121
+3,Trot,1.5,7,Mixed Blocks,2,99.812,0.635
+3,Trot,1.5,7,Mixed Blocks,3,98.974,1.857
+3,Trot,1.5,7,Mixed Blocks,4,98.272,2.136
+3,Trot,1.5,7,Mixed Blocks,5,97.871,2.649
+3,Trot,2.0,7,Mixed Blocks,1,99.932,0.338
+3,Trot,2.0,7,Mixed Blocks,2,99.164,1.775
+3,Trot,2.0,7,Mixed Blocks,3,97.433,4.336
+3,Trot,2.0,7,Mixed Blocks,4,96.686,3.799
+3,Trot,2.0,7,Mixed Blocks,5,96.652,3.736
+4,Pace,0.5,1,Slope Up,1,100.000,0.000
+4,Pace,0.5,1,Slope Up,2,100.000,0.000
+4,Pace,0.5,1,Slope Up,3,100.000,0.000
+4,Pace,0.5,1,Slope Up,4,100.000,0.000
+4,Pace,0.5,1,Slope Up,5,99.996,0.040
+4,Pace,1.0,1,Slope Up,1,100.000,0.000
+4,Pace,1.0,1,Slope Up,2,100.000,0.000
+4,Pace,1.0,1,Slope Up,3,100.000,0.000
+4,Pace,1.0,1,Slope Up,4,100.000,0.000
+4,Pace,1.0,1,Slope Up,5,100.000,0.000
+4,Pace,1.5,1,Slope Up,1,100.000,0.000
+4,Pace,1.5,1,Slope Up,2,100.000,0.000
+4,Pace,1.5,1,Slope Up,3,99.986,0.142
+4,Pace,1.5,1,Slope Up,4,100.000,0.000
+4,Pace,1.5,1,Slope Up,5,99.986,0.134
+4,Pace,2.0,1,Slope Up,1,99.923,0.370
+4,Pace,2.0,1,Slope Up,2,99.981,0.184
+4,Pace,2.0,1,Slope Up,3,99.943,0.414
+4,Pace,2.0,1,Slope Up,4,99.963,0.355
+4,Pace,2.0,1,Slope Up,5,99.874,0.647
+4,Pace,0.5,2,Slope Down,1,100.000,0.000
+4,Pace,0.5,2,Slope Down,2,100.000,0.000
+4,Pace,0.5,2,Slope Down,3,100.000,0.000
+4,Pace,0.5,2,Slope Down,4,100.000,0.000
+4,Pace,0.5,2,Slope Down,5,100.000,0.000
+4,Pace,1.0,2,Slope Down,1,100.000,0.000
+4,Pace,1.0,2,Slope Down,2,100.000,0.000
+4,Pace,1.0,2,Slope Down,3,100.000,0.000
+4,Pace,1.0,2,Slope Down,4,100.000,0.000
+4,Pace,1.0,2,Slope Down,5,99.974,0.147
+4,Pace,1.5,2,Slope Down,1,100.000,0.000
+4,Pace,1.5,2,Slope Down,2,100.000,0.000
+4,Pace,1.5,2,Slope Down,3,100.000,0.000
+4,Pace,1.5,2,Slope Down,4,99.814,0.442
+4,Pace,1.5,2,Slope Down,5,99.702,0.575
+4,Pace,2.0,2,Slope Down,1,99.919,0.345
+4,Pace,2.0,2,Slope Down,2,99.878,0.436
+4,Pace,2.0,2,Slope Down,3,99.913,0.433
+4,Pace,2.0,2,Slope Down,4,99.866,0.507
+4,Pace,2.0,2,Slope Down,5,99.334,0.846
+4,Pace,0.5,3,Stairs Up,1,100.000,0.000
+4,Pace,0.5,3,Stairs Up,2,99.996,0.042
+4,Pace,0.5,3,Stairs Up,3,99.979,0.092
+4,Pace,0.5,3,Stairs Up,4,99.996,0.043
+4,Pace,0.5,3,Stairs Up,5,99.957,0.213
+4,Pace,1.0,3,Stairs Up,1,100.000,0.000
+4,Pace,1.0,3,Stairs Up,2,100.000,0.000
+4,Pace,1.0,3,Stairs Up,3,99.979,0.143
+4,Pace,1.0,3,Stairs Up,4,99.970,0.162
+4,Pace,1.0,3,Stairs Up,5,99.983,0.158
+4,Pace,1.5,3,Stairs Up,1,100.000,0.000
+4,Pace,1.5,3,Stairs Up,2,100.000,0.000
+4,Pace,1.5,3,Stairs Up,3,99.984,0.123
+4,Pace,1.5,3,Stairs Up,4,99.984,0.155
+4,Pace,1.5,3,Stairs Up,5,99.889,0.444
+4,Pace,2.0,3,Stairs Up,1,99.944,0.310
+4,Pace,2.0,3,Stairs Up,2,99.830,0.589
+4,Pace,2.0,3,Stairs Up,3,99.982,0.184
+4,Pace,2.0,3,Stairs Up,4,99.396,1.731
+4,Pace,2.0,3,Stairs Up,5,99.265,1.856
+4,Pace,0.5,4,Stairs Down,1,100.000,0.000
+4,Pace,0.5,4,Stairs Down,2,100.000,0.000
+4,Pace,0.5,4,Stairs Down,3,99.987,0.073
+4,Pace,0.5,4,Stairs Down,4,99.634,0.435
+4,Pace,0.5,4,Stairs Down,5,99.089,0.927
+4,Pace,1.0,4,Stairs Down,1,100.000,0.000
+4,Pace,1.0,4,Stairs Down,2,99.812,0.512
+4,Pace,1.0,4,Stairs Down,3,99.745,0.501
+4,Pace,1.0,4,Stairs Down,4,96.804,1.293
+4,Pace,1.0,4,Stairs Down,5,97.528,1.079
+4,Pace,1.5,4,Stairs Down,1,99.783,0.518
+4,Pace,1.5,4,Stairs Down,2,99.936,0.281
+4,Pace,1.5,4,Stairs Down,3,98.900,1.133
+4,Pace,1.5,4,Stairs Down,4,96.885,1.675
+4,Pace,1.5,4,Stairs Down,5,95.219,2.280
+4,Pace,2.0,4,Stairs Down,1,99.945,0.299
+4,Pace,2.0,4,Stairs Down,2,99.632,0.947
+4,Pace,2.0,4,Stairs Down,3,98.953,1.607
+4,Pace,2.0,4,Stairs Down,4,97.712,2.338
+4,Pace,2.0,4,Stairs Down,5,95.087,4.116
+4,Pace,0.5,5,Gaps,1,99.974,0.103
+4,Pace,0.5,5,Gaps,2,94.265,1.452
+4,Pace,0.5,5,Gaps,3,85.367,1.222
+4,Pace,0.5,5,Gaps,4,77.445,1.898
+4,Pace,0.5,5,Gaps,5,71.975,0.323
+4,Pace,1.0,5,Gaps,1,99.069,0.837
+4,Pace,1.0,5,Gaps,2,93.640,2.194
+4,Pace,1.0,5,Gaps,3,86.854,2.200
+4,Pace,1.0,5,Gaps,4,70.378,1.366
+4,Pace,1.0,5,Gaps,5,60.568,0.399
+4,Pace,1.5,5,Gaps,1,99.244,1.042
+4,Pace,1.5,5,Gaps,2,90.845,1.879
+4,Pace,1.5,5,Gaps,3,80.260,1.970
+4,Pace,1.5,5,Gaps,4,56.030,1.149
+4,Pace,1.5,5,Gaps,5,56.219,2.042
+4,Pace,2.0,5,Gaps,1,98.491,1.409
+4,Pace,2.0,5,Gaps,2,94.248,2.637
+4,Pace,2.0,5,Gaps,3,78.159,2.654
+4,Pace,2.0,5,Gaps,4,55.377,4.404
+4,Pace,2.0,5,Gaps,5,54.417,3.556
+4,Pace,0.5,6,Rough,1,99.908,0.215
+4,Pace,0.5,6,Rough,2,98.653,1.032
+4,Pace,0.5,6,Rough,3,96.883,1.571
+4,Pace,0.5,6,Rough,4,94.800,1.594
+4,Pace,0.5,6,Rough,5,93.043,2.294
+4,Pace,1.0,6,Rough,1,99.924,0.237
+4,Pace,1.0,6,Rough,2,98.688,1.188
+4,Pace,1.0,6,Rough,3,96.745,1.959
+4,Pace,1.0,6,Rough,4,93.873,2.523
+4,Pace,1.0,6,Rough,5,92.183,3.354
+4,Pace,1.5,6,Rough,1,99.844,0.475
+4,Pace,1.5,6,Rough,2,98.745,1.503
+4,Pace,1.5,6,Rough,3,95.994,2.558
+4,Pace,1.5,6,Rough,4,92.265,3.104
+4,Pace,1.5,6,Rough,5,90.390,4.411
+4,Pace,2.0,6,Rough,1,99.810,0.541
+4,Pace,2.0,6,Rough,2,98.155,1.773
+4,Pace,2.0,6,Rough,3,95.555,3.076
+4,Pace,2.0,6,Rough,4,91.707,4.385
+4,Pace,2.0,6,Rough,5,87.949,5.539
+4,Pace,0.5,7,Mixed Blocks,1,99.903,0.237
+4,Pace,0.5,7,Mixed Blocks,2,99.841,0.290
+4,Pace,0.5,7,Mixed Blocks,3,99.590,0.667
+4,Pace,0.5,7,Mixed Blocks,4,99.409,0.972
+4,Pace,0.5,7,Mixed Blocks,5,99.136,1.011
+4,Pace,1.0,7,Mixed Blocks,1,99.882,0.371
+4,Pace,1.0,7,Mixed Blocks,2,99.614,0.552
+4,Pace,1.0,7,Mixed Blocks,3,99.108,1.051
+4,Pace,1.0,7,Mixed Blocks,4,98.951,1.679
+4,Pace,1.0,7,Mixed Blocks,5,98.762,1.458
+4,Pace,1.5,7,Mixed Blocks,1,99.788,0.618
+4,Pace,1.5,7,Mixed Blocks,2,99.534,0.785
+4,Pace,1.5,7,Mixed Blocks,3,98.721,1.922
+4,Pace,1.5,7,Mixed Blocks,4,97.807,2.483
+4,Pace,1.5,7,Mixed Blocks,5,97.454,2.964
+4,Pace,2.0,7,Mixed Blocks,1,99.670,0.851
+4,Pace,2.0,7,Mixed Blocks,2,98.653,2.348
+4,Pace,2.0,7,Mixed Blocks,3,96.923,4.001
+4,Pace,2.0,7,Mixed Blocks,4,95.825,4.473
+4,Pace,2.0,7,Mixed Blocks,5,95.207,3.752
+5,Pronk,0.5,1,Slope Up,1,100.000,0.000
+5,Pronk,0.5,1,Slope Up,2,100.000,0.000
+5,Pronk,0.5,1,Slope Up,3,100.000,0.000
+5,Pronk,0.5,1,Slope Up,4,100.000,0.000
+5,Pronk,0.5,1,Slope Up,5,100.000,0.000
+5,Pronk,1.0,1,Slope Up,1,100.000,0.000
+5,Pronk,1.0,1,Slope Up,2,100.000,0.000
+5,Pronk,1.0,1,Slope Up,3,100.000,0.000
+5,Pronk,1.0,1,Slope Up,4,100.000,0.000
+5,Pronk,1.0,1,Slope Up,5,99.935,0.268
+5,Pronk,1.5,1,Slope Up,1,100.000,0.000
+5,Pronk,1.5,1,Slope Up,2,100.000,0.000
+5,Pronk,1.5,1,Slope Up,3,100.000,0.000
+5,Pronk,1.5,1,Slope Up,4,99.991,0.092
+5,Pronk,1.5,1,Slope Up,5,99.833,0.458
+5,Pronk,2.0,1,Slope Up,1,100.000,0.000
+5,Pronk,2.0,1,Slope Up,2,99.974,0.184
+5,Pronk,2.0,1,Slope Up,3,99.306,0.980
+5,Pronk,2.0,1,Slope Up,4,99.672,0.707
+5,Pronk,2.0,1,Slope Up,5,98.375,1.827
+5,Pronk,0.5,2,Slope Down,1,97.058,1.125
+5,Pronk,0.5,2,Slope Down,2,96.716,1.314
+5,Pronk,0.5,2,Slope Down,3,96.729,1.333
+5,Pronk,0.5,2,Slope Down,4,96.309,1.378
+5,Pronk,0.5,2,Slope Down,5,97.197,1.458
+5,Pronk,1.0,2,Slope Down,1,97.724,1.929
+5,Pronk,1.0,2,Slope Down,2,92.286,2.234
+5,Pronk,1.0,2,Slope Down,3,87.489,2.703
+5,Pronk,1.0,2,Slope Down,4,86.331,3.301
+5,Pronk,1.0,2,Slope Down,5,86.892,3.764
+5,Pronk,1.5,2,Slope Down,1,100.000,0.000
+5,Pronk,1.5,2,Slope Down,2,97.717,1.507
+5,Pronk,1.5,2,Slope Down,3,88.986,2.604
+5,Pronk,1.5,2,Slope Down,4,87.398,2.673
+5,Pronk,1.5,2,Slope Down,5,87.776,3.076
+5,Pronk,2.0,2,Slope Down,1,100.000,0.000
+5,Pronk,2.0,2,Slope Down,2,98.156,2.221
+5,Pronk,2.0,2,Slope Down,3,94.203,2.569
+5,Pronk,2.0,2,Slope Down,4,91.878,3.845
+5,Pronk,2.0,2,Slope Down,5,92.211,2.690
+5,Pronk,0.5,3,Stairs Up,1,99.997,0.028
+5,Pronk,0.5,3,Stairs Up,2,99.791,0.542
+5,Pronk,0.5,3,Stairs Up,3,99.984,0.117
+5,Pronk,0.5,3,Stairs Up,4,100.000,0.000
+5,Pronk,0.5,3,Stairs Up,5,99.973,0.204
+5,Pronk,1.0,3,Stairs Up,1,100.000,0.000
+5,Pronk,1.0,3,Stairs Up,2,99.985,0.151
+5,Pronk,1.0,3,Stairs Up,3,99.992,0.078
+5,Pronk,1.0,3,Stairs Up,4,100.000,0.000
+5,Pronk,1.0,3,Stairs Up,5,99.918,0.572
+5,Pronk,1.5,3,Stairs Up,1,99.520,0.926
+5,Pronk,1.5,3,Stairs Up,2,99.397,1.041
+5,Pronk,1.5,3,Stairs Up,3,99.991,0.086
+5,Pronk,1.5,3,Stairs Up,4,100.000,0.000
+5,Pronk,1.5,3,Stairs Up,5,99.966,0.355
+5,Pronk,2.0,3,Stairs Up,1,97.055,2.476
+5,Pronk,2.0,3,Stairs Up,2,92.489,2.973
+5,Pronk,2.0,3,Stairs Up,3,97.974,1.672
+5,Pronk,2.0,3,Stairs Up,4,99.916,0.360
+5,Pronk,2.0,3,Stairs Up,5,99.935,0.460
+5,Pronk,0.5,4,Stairs Down,1,92.918,1.478
+5,Pronk,0.5,4,Stairs Down,2,97.619,1.242
+5,Pronk,0.5,4,Stairs Down,3,98.502,1.425
+5,Pronk,0.5,4,Stairs Down,4,98.211,1.519
+5,Pronk,0.5,4,Stairs Down,5,99.400,0.956
+5,Pronk,1.0,4,Stairs Down,1,94.810,1.696
+5,Pronk,1.0,4,Stairs Down,2,98.083,1.555
+5,Pronk,1.0,4,Stairs Down,3,99.189,0.882
+5,Pronk,1.0,4,Stairs Down,4,97.639,1.538
+5,Pronk,1.0,4,Stairs Down,5,98.346,1.560
+5,Pronk,1.5,4,Stairs Down,1,98.556,1.594
+5,Pronk,1.5,4,Stairs Down,2,87.628,2.937
+5,Pronk,1.5,4,Stairs Down,3,91.514,4.821
+5,Pronk,1.5,4,Stairs Down,4,92.702,2.953
+5,Pronk,1.5,4,Stairs Down,5,91.692,2.772
+5,Pronk,2.0,4,Stairs Down,1,99.377,1.297
+5,Pronk,2.0,4,Stairs Down,2,89.488,3.585
+5,Pronk,2.0,4,Stairs Down,3,80.657,3.602
+5,Pronk,2.0,4,Stairs Down,4,79.640,2.951
+5,Pronk,2.0,4,Stairs Down,5,85.364,4.681
+5,Pronk,0.5,5,Gaps,1,98.976,0.813
+5,Pronk,0.5,5,Gaps,2,93.611,1.867
+5,Pronk,0.5,5,Gaps,3,74.522,1.117
+5,Pronk,0.5,5,Gaps,4,73.750,0.547
+5,Pronk,0.5,5,Gaps,5,74.122,0.698
+5,Pronk,1.0,5,Gaps,1,98.311,1.288
+5,Pronk,1.0,5,Gaps,2,97.880,1.717
+5,Pronk,1.0,5,Gaps,3,65.995,2.774
+5,Pronk,1.0,5,Gaps,4,61.352,0.795
+5,Pronk,1.0,5,Gaps,5,61.151,0.909
+5,Pronk,1.5,5,Gaps,1,97.833,2.229
+5,Pronk,1.5,5,Gaps,2,74.174,4.215
+5,Pronk,1.5,5,Gaps,3,55.714,1.210
+5,Pronk,1.5,5,Gaps,4,55.013,0.897
+5,Pronk,1.5,5,Gaps,5,55.372,0.838
+5,Pronk,2.0,5,Gaps,1,93.268,3.565
+5,Pronk,2.0,5,Gaps,2,79.445,3.067
+5,Pronk,2.0,5,Gaps,3,61.069,2.218
+5,Pronk,2.0,5,Gaps,4,51.888,0.566
+5,Pronk,2.0,5,Gaps,5,51.477,0.910
+5,Pronk,0.5,6,Rough,1,99.171,0.648
+5,Pronk,0.5,6,Rough,2,93.832,1.875
+5,Pronk,0.5,6,Rough,3,90.325,2.150
+5,Pronk,0.5,6,Rough,4,86.108,2.575
+5,Pronk,0.5,6,Rough,5,85.050,3.325
+5,Pronk,1.0,6,Rough,1,99.684,0.523
+5,Pronk,1.0,6,Rough,2,96.556,2.010
+5,Pronk,1.0,6,Rough,3,92.431,2.957
+5,Pronk,1.0,6,Rough,4,86.092,3.885
+5,Pronk,1.0,6,Rough,5,82.391,4.710
+5,Pronk,1.5,6,Rough,1,99.804,0.453
+5,Pronk,1.5,6,Rough,2,97.120,2.093
+5,Pronk,1.5,6,Rough,3,92.354,3.411
+5,Pronk,1.5,6,Rough,4,84.920,4.707
+5,Pronk,1.5,6,Rough,5,79.795,5.557
+5,Pronk,2.0,6,Rough,1,99.747,0.678
+5,Pronk,2.0,6,Rough,2,95.327,3.131
+5,Pronk,2.0,6,Rough,3,87.540,5.380
+5,Pronk,2.0,6,Rough,4,80.836,5.047
+5,Pronk,2.0,6,Rough,5,73.800,7.529
+5,Pronk,0.5,7,Mixed Blocks,1,99.372,0.613
+5,Pronk,0.5,7,Mixed Blocks,2,98.996,1.002
+5,Pronk,0.5,7,Mixed Blocks,3,98.605,1.120
+5,Pronk,0.5,7,Mixed Blocks,4,98.667,1.577
+5,Pronk,0.5,7,Mixed Blocks,5,98.493,1.247
+5,Pronk,1.0,7,Mixed Blocks,1,99.326,0.901
+5,Pronk,1.0,7,Mixed Blocks,2,98.347,1.574
+5,Pronk,1.0,7,Mixed Blocks,3,97.920,2.284
+5,Pronk,1.0,7,Mixed Blocks,4,97.945,2.073
+5,Pronk,1.0,7,Mixed Blocks,5,97.423,2.404
+5,Pronk,1.5,7,Mixed Blocks,1,99.526,1.130
+5,Pronk,1.5,7,Mixed Blocks,2,98.227,2.582
+5,Pronk,1.5,7,Mixed Blocks,3,97.834,2.536
+5,Pronk,1.5,7,Mixed Blocks,4,96.982,3.438
+5,Pronk,1.5,7,Mixed Blocks,5,97.329,3.047
+5,Pronk,2.0,7,Mixed Blocks,1,98.627,2.456
+5,Pronk,2.0,7,Mixed Blocks,2,97.069,3.403
+5,Pronk,2.0,7,Mixed Blocks,3,94.437,5.571
+5,Pronk,2.0,7,Mixed Blocks,4,94.719,4.710
+5,Pronk,2.0,7,Mixed Blocks,5,95.289,4.059
+6,Half-Bound,0.5,1,Slope Up,1,100.000,0.000
+6,Half-Bound,0.5,1,Slope Up,2,100.000,0.000
+6,Half-Bound,0.5,1,Slope Up,3,100.000,0.000
+6,Half-Bound,0.5,1,Slope Up,4,100.000,0.000
+6,Half-Bound,0.5,1,Slope Up,5,100.000,0.000
+6,Half-Bound,1.0,1,Slope Up,1,100.000,0.000
+6,Half-Bound,1.0,1,Slope Up,2,100.000,0.000
+6,Half-Bound,1.0,1,Slope Up,3,100.000,0.000
+6,Half-Bound,1.0,1,Slope Up,4,100.000,0.000
+6,Half-Bound,1.0,1,Slope Up,5,100.000,0.000
+6,Half-Bound,1.5,1,Slope Up,1,100.000,0.000
+6,Half-Bound,1.5,1,Slope Up,2,100.000,0.000
+6,Half-Bound,1.5,1,Slope Up,3,100.000,0.000
+6,Half-Bound,1.5,1,Slope Up,4,100.000,0.000
+6,Half-Bound,1.5,1,Slope Up,5,100.000,0.000
+6,Half-Bound,2.0,1,Slope Up,1,100.000,0.000
+6,Half-Bound,2.0,1,Slope Up,2,100.000,0.000
+6,Half-Bound,2.0,1,Slope Up,3,100.000,0.000
+6,Half-Bound,2.0,1,Slope Up,4,100.000,0.000
+6,Half-Bound,2.0,1,Slope Up,5,99.966,0.332
+6,Half-Bound,0.5,2,Slope Down,1,100.000,0.000
+6,Half-Bound,0.5,2,Slope Down,2,100.000,0.000
+6,Half-Bound,0.5,2,Slope Down,3,100.000,0.000
+6,Half-Bound,0.5,2,Slope Down,4,100.000,0.000
+6,Half-Bound,0.5,2,Slope Down,5,100.000,0.000
+6,Half-Bound,1.0,2,Slope Down,1,100.000,0.000
+6,Half-Bound,1.0,2,Slope Down,2,100.000,0.000
+6,Half-Bound,1.0,2,Slope Down,3,100.000,0.000
+6,Half-Bound,1.0,2,Slope Down,4,100.000,0.000
+6,Half-Bound,1.0,2,Slope Down,5,99.922,0.247
+6,Half-Bound,1.5,2,Slope Down,1,100.000,0.000
+6,Half-Bound,1.5,2,Slope Down,2,100.000,0.000
+6,Half-Bound,1.5,2,Slope Down,3,100.000,0.000
+6,Half-Bound,1.5,2,Slope Down,4,100.000,0.000
+6,Half-Bound,1.5,2,Slope Down,5,99.976,0.165
+6,Half-Bound,2.0,2,Slope Down,1,100.000,0.000
+6,Half-Bound,2.0,2,Slope Down,2,100.000,0.000
+6,Half-Bound,2.0,2,Slope Down,3,100.000,0.000
+6,Half-Bound,2.0,2,Slope Down,4,99.985,0.151
+6,Half-Bound,2.0,2,Slope Down,5,97.606,1.919
+6,Half-Bound,0.5,3,Stairs Up,1,100.000,0.000
+6,Half-Bound,0.5,3,Stairs Up,2,99.596,0.660
+6,Half-Bound,0.5,3,Stairs Up,3,99.994,0.057
+6,Half-Bound,0.5,3,Stairs Up,4,100.000,0.000
+6,Half-Bound,0.5,3,Stairs Up,5,100.000,0.000
+6,Half-Bound,1.0,3,Stairs Up,1,100.000,0.000
+6,Half-Bound,1.0,3,Stairs Up,2,99.717,0.446
+6,Half-Bound,1.0,3,Stairs Up,3,100.000,0.000
+6,Half-Bound,1.0,3,Stairs Up,4,100.000,0.000
+6,Half-Bound,1.0,3,Stairs Up,5,100.000,0.000
+6,Half-Bound,1.5,3,Stairs Up,1,100.000,0.000
+6,Half-Bound,1.5,3,Stairs Up,2,99.871,0.433
+6,Half-Bound,1.5,3,Stairs Up,3,100.000,0.000
+6,Half-Bound,1.5,3,Stairs Up,4,99.883,0.419
+6,Half-Bound,1.5,3,Stairs Up,5,100.000,0.000
+6,Half-Bound,2.0,3,Stairs Up,1,100.000,0.000
+6,Half-Bound,2.0,3,Stairs Up,2,100.000,0.000
+6,Half-Bound,2.0,3,Stairs Up,3,100.000,0.000
+6,Half-Bound,2.0,3,Stairs Up,4,100.000,0.000
+6,Half-Bound,2.0,3,Stairs Up,5,100.000,0.000
+6,Half-Bound,0.5,4,Stairs Down,1,99.996,0.036
+6,Half-Bound,0.5,4,Stairs Down,2,99.956,0.194
+6,Half-Bound,0.5,4,Stairs Down,3,99.994,0.056
+6,Half-Bound,0.5,4,Stairs Down,4,99.335,0.872
+6,Half-Bound,0.5,4,Stairs Down,5,99.180,1.591
+6,Half-Bound,1.0,4,Stairs Down,1,100.000,0.000
+6,Half-Bound,1.0,4,Stairs Down,2,99.577,0.587
+6,Half-Bound,1.0,4,Stairs Down,3,100.000,0.000
+6,Half-Bound,1.0,4,Stairs Down,4,100.000,0.000
+6,Half-Bound,1.0,4,Stairs Down,5,99.969,0.215
+6,Half-Bound,1.5,4,Stairs Down,1,100.000,0.000
+6,Half-Bound,1.5,4,Stairs Down,2,99.380,0.864
+6,Half-Bound,1.5,4,Stairs Down,3,100.000,0.000
+6,Half-Bound,1.5,4,Stairs Down,4,100.000,0.000
+6,Half-Bound,1.5,4,Stairs Down,5,100.000,0.000
+6,Half-Bound,2.0,4,Stairs Down,1,99.901,0.394
+6,Half-Bound,2.0,4,Stairs Down,2,99.206,0.948
+6,Half-Bound,2.0,4,Stairs Down,3,97.785,2.076
+6,Half-Bound,2.0,4,Stairs Down,4,95.333,3.361
+6,Half-Bound,2.0,4,Stairs Down,5,99.271,1.309
+6,Half-Bound,0.5,5,Gaps,1,99.831,0.272
+6,Half-Bound,0.5,5,Gaps,2,96.965,1.403
+6,Half-Bound,0.5,5,Gaps,3,99.723,0.712
+6,Half-Bound,0.5,5,Gaps,4,99.916,0.292
+6,Half-Bound,0.5,5,Gaps,5,99.981,0.181
+6,Half-Bound,1.0,5,Gaps,1,99.763,0.570
+6,Half-Bound,1.0,5,Gaps,2,100.000,0.000
+6,Half-Bound,1.0,5,Gaps,3,99.954,0.253
+6,Half-Bound,1.0,5,Gaps,4,99.954,0.331
+6,Half-Bound,1.0,5,Gaps,5,99.599,0.687
+6,Half-Bound,1.5,5,Gaps,1,100.000,0.000
+6,Half-Bound,1.5,5,Gaps,2,100.000,0.000
+6,Half-Bound,1.5,5,Gaps,3,100.000,0.000
+6,Half-Bound,1.5,5,Gaps,4,100.000,0.000
+6,Half-Bound,1.5,5,Gaps,5,100.000,0.000
+6,Half-Bound,2.0,5,Gaps,1,100.000,0.000
+6,Half-Bound,2.0,5,Gaps,2,100.000,0.000
+6,Half-Bound,2.0,5,Gaps,3,99.625,0.800
+6,Half-Bound,2.0,5,Gaps,4,99.979,0.207
+6,Half-Bound,2.0,5,Gaps,5,100.000,0.000
+6,Half-Bound,0.5,6,Rough,1,99.237,0.576
+6,Half-Bound,0.5,6,Rough,2,97.036,1.228
+6,Half-Bound,0.5,6,Rough,3,94.890,1.645
+6,Half-Bound,0.5,6,Rough,4,92.560,2.068
+6,Half-Bound,0.5,6,Rough,5,90.885,2.345
+6,Half-Bound,1.0,6,Rough,1,99.896,0.276
+6,Half-Bound,1.0,6,Rough,2,98.523,1.264
+6,Half-Bound,1.0,6,Rough,3,96.493,1.785
+6,Half-Bound,1.0,6,Rough,4,92.618,2.998
+6,Half-Bound,1.0,6,Rough,5,90.158,3.462
+6,Half-Bound,1.5,6,Rough,1,99.888,0.354
+6,Half-Bound,1.5,6,Rough,2,98.168,1.863
+6,Half-Bound,1.5,6,Rough,3,95.586,2.939
+6,Half-Bound,1.5,6,Rough,4,92.685,3.785
+6,Half-Bound,1.5,6,Rough,5,89.243,4.708
+6,Half-Bound,2.0,6,Rough,1,99.881,0.497
+6,Half-Bound,2.0,6,Rough,2,98.315,2.310
+6,Half-Bound,2.0,6,Rough,3,95.287,3.455
+6,Half-Bound,2.0,6,Rough,4,91.232,4.800
+6,Half-Bound,2.0,6,Rough,5,88.093,5.767
+6,Half-Bound,0.5,7,Mixed Blocks,1,99.836,0.316
+6,Half-Bound,0.5,7,Mixed Blocks,2,99.698,0.495
+6,Half-Bound,0.5,7,Mixed Blocks,3,99.550,0.796
+6,Half-Bound,0.5,7,Mixed Blocks,4,99.461,0.870
+6,Half-Bound,0.5,7,Mixed Blocks,5,99.170,1.225
+6,Half-Bound,1.0,7,Mixed Blocks,1,99.895,0.281
+6,Half-Bound,1.0,7,Mixed Blocks,2,99.700,0.627
+6,Half-Bound,1.0,7,Mixed Blocks,3,99.587,0.848
+6,Half-Bound,1.0,7,Mixed Blocks,4,99.394,1.275
+6,Half-Bound,1.0,7,Mixed Blocks,5,98.817,1.904
+6,Half-Bound,1.5,7,Mixed Blocks,1,99.849,0.515
+6,Half-Bound,1.5,7,Mixed Blocks,2,99.575,1.507
+6,Half-Bound,1.5,7,Mixed Blocks,3,99.143,2.389
+6,Half-Bound,1.5,7,Mixed Blocks,4,99.308,1.662
+6,Half-Bound,1.5,7,Mixed Blocks,5,98.541,2.838
+6,Half-Bound,2.0,7,Mixed Blocks,1,99.828,0.622
+6,Half-Bound,2.0,7,Mixed Blocks,2,99.266,2.048
+6,Half-Bound,2.0,7,Mixed Blocks,3,99.437,1.288
+6,Half-Bound,2.0,7,Mixed Blocks,4,98.510,3.057
+6,Half-Bound,2.0,7,Mixed Blocks,5,98.141,3.786
+7,Bound,0.5,1,Slope Up,1,100.000,0.000
+7,Bound,0.5,1,Slope Up,2,100.000,0.000
+7,Bound,0.5,1,Slope Up,3,100.000,0.000
+7,Bound,0.5,1,Slope Up,4,100.000,0.000
+7,Bound,0.5,1,Slope Up,5,100.000,0.000
+7,Bound,1.0,1,Slope Up,1,100.000,0.000
+7,Bound,1.0,1,Slope Up,2,100.000,0.000
+7,Bound,1.0,1,Slope Up,3,100.000,0.000
+7,Bound,1.0,1,Slope Up,4,100.000,0.000
+7,Bound,1.0,1,Slope Up,5,100.000,0.000
+7,Bound,1.5,1,Slope Up,1,100.000,0.000
+7,Bound,1.5,1,Slope Up,2,100.000,0.000
+7,Bound,1.5,1,Slope Up,3,100.000,0.000
+7,Bound,1.5,1,Slope Up,4,100.000,0.000
+7,Bound,1.5,1,Slope Up,5,99.985,0.142
+7,Bound,2.0,1,Slope Up,1,100.000,0.000
+7,Bound,2.0,1,Slope Up,2,100.000,0.000
+7,Bound,2.0,1,Slope Up,3,100.000,0.000
+7,Bound,2.0,1,Slope Up,4,100.000,0.000
+7,Bound,2.0,1,Slope Up,5,100.000,0.000
+7,Bound,0.5,2,Slope Down,1,100.000,0.000
+7,Bound,0.5,2,Slope Down,2,100.000,0.000
+7,Bound,0.5,2,Slope Down,3,100.000,0.000
+7,Bound,0.5,2,Slope Down,4,99.990,0.067
+7,Bound,0.5,2,Slope Down,5,98.165,2.016
+7,Bound,1.0,2,Slope Down,1,100.000,0.000
+7,Bound,1.0,2,Slope Down,2,100.000,0.000
+7,Bound,1.0,2,Slope Down,3,100.000,0.000
+7,Bound,1.0,2,Slope Down,4,98.360,1.225
+7,Bound,1.0,2,Slope Down,5,90.330,3.754
+7,Bound,1.5,2,Slope Down,1,100.000,0.000
+7,Bound,1.5,2,Slope Down,2,100.000,0.000
+7,Bound,1.5,2,Slope Down,3,100.000,0.000
+7,Bound,1.5,2,Slope Down,4,100.000,0.000
+7,Bound,1.5,2,Slope Down,5,99.958,0.248
+7,Bound,2.0,2,Slope Down,1,100.000,0.000
+7,Bound,2.0,2,Slope Down,2,100.000,0.000
+7,Bound,2.0,2,Slope Down,3,100.000,0.000
+7,Bound,2.0,2,Slope Down,4,100.000,0.000
+7,Bound,2.0,2,Slope Down,5,100.000,0.000
+7,Bound,0.5,3,Stairs Up,1,100.000,0.000
+7,Bound,0.5,3,Stairs Up,2,100.000,0.000
+7,Bound,0.5,3,Stairs Up,3,100.000,0.000
+7,Bound,0.5,3,Stairs Up,4,100.000,0.000
+7,Bound,0.5,3,Stairs Up,5,100.000,0.000
+7,Bound,1.0,3,Stairs Up,1,100.000,0.000
+7,Bound,1.0,3,Stairs Up,2,100.000,0.000
+7,Bound,1.0,3,Stairs Up,3,100.000,0.000
+7,Bound,1.0,3,Stairs Up,4,100.000,0.000
+7,Bound,1.0,3,Stairs Up,5,100.000,0.000
+7,Bound,1.5,3,Stairs Up,1,100.000,0.000
+7,Bound,1.5,3,Stairs Up,2,100.000,0.000
+7,Bound,1.5,3,Stairs Up,3,100.000,0.000
+7,Bound,1.5,3,Stairs Up,4,100.000,0.000
+7,Bound,1.5,3,Stairs Up,5,100.000,0.000
+7,Bound,2.0,3,Stairs Up,1,100.000,0.000
+7,Bound,2.0,3,Stairs Up,2,100.000,0.000
+7,Bound,2.0,3,Stairs Up,3,100.000,0.000
+7,Bound,2.0,3,Stairs Up,4,100.000,0.000
+7,Bound,2.0,3,Stairs Up,5,100.000,0.000
+7,Bound,0.5,4,Stairs Down,1,100.000,0.000
+7,Bound,0.5,4,Stairs Down,2,99.932,0.305
+7,Bound,0.5,4,Stairs Down,3,97.553,3.187
+7,Bound,0.5,4,Stairs Down,4,99.812,0.877
+7,Bound,0.5,4,Stairs Down,5,99.976,0.110
+7,Bound,1.0,4,Stairs Down,1,100.000,0.000
+7,Bound,1.0,4,Stairs Down,2,99.992,0.078
+7,Bound,1.0,4,Stairs Down,3,99.936,0.286
+7,Bound,1.0,4,Stairs Down,4,99.686,0.588
+7,Bound,1.0,4,Stairs Down,5,99.515,0.752
+7,Bound,1.5,4,Stairs Down,1,100.000,0.000
+7,Bound,1.5,4,Stairs Down,2,98.528,1.508
+7,Bound,1.5,4,Stairs Down,3,99.938,0.228
+7,Bound,1.5,4,Stairs Down,4,100.000,0.000
+7,Bound,1.5,4,Stairs Down,5,100.000,0.000
+7,Bound,2.0,4,Stairs Down,1,100.000,0.000
+7,Bound,2.0,4,Stairs Down,2,99.346,1.095
+7,Bound,2.0,4,Stairs Down,3,98.062,1.953
+7,Bound,2.0,4,Stairs Down,4,99.858,0.491
+7,Bound,2.0,4,Stairs Down,5,99.830,0.507
+7,Bound,0.5,5,Gaps,1,99.907,0.261
+7,Bound,0.5,5,Gaps,2,97.958,1.286
+7,Bound,0.5,5,Gaps,3,99.525,1.197
+7,Bound,0.5,5,Gaps,4,99.981,0.184
+7,Bound,0.5,5,Gaps,5,99.905,0.285
+7,Bound,1.0,5,Gaps,1,99.953,0.318
+7,Bound,1.0,5,Gaps,2,100.000,0.000
+7,Bound,1.0,5,Gaps,3,99.969,0.293
+7,Bound,1.0,5,Gaps,4,100.000,0.000
+7,Bound,1.0,5,Gaps,5,99.968,0.222
+7,Bound,1.5,5,Gaps,1,100.000,0.000
+7,Bound,1.5,5,Gaps,2,100.000,0.000
+7,Bound,1.5,5,Gaps,3,100.000,0.000
+7,Bound,1.5,5,Gaps,4,100.000,0.000
+7,Bound,1.5,5,Gaps,5,100.000,0.000
+7,Bound,2.0,5,Gaps,1,100.000,0.000
+7,Bound,2.0,5,Gaps,2,100.000,0.000
+7,Bound,2.0,5,Gaps,3,100.000,0.000
+7,Bound,2.0,5,Gaps,4,100.000,0.000
+7,Bound,2.0,5,Gaps,5,100.000,0.000
+7,Bound,0.5,6,Rough,1,99.584,0.386
+7,Bound,0.5,6,Rough,2,96.603,1.503
+7,Bound,0.5,6,Rough,3,94.743,1.766
+7,Bound,0.5,6,Rough,4,91.737,2.525
+7,Bound,0.5,6,Rough,5,89.879,3.029
+7,Bound,1.0,6,Rough,1,99.904,0.282
+7,Bound,1.0,6,Rough,2,98.458,1.084
+7,Bound,1.0,6,Rough,3,95.544,2.655
+7,Bound,1.0,6,Rough,4,90.849,2.957
+7,Bound,1.0,6,Rough,5,88.973,3.656
+7,Bound,1.5,6,Rough,1,99.871,0.467
+7,Bound,1.5,6,Rough,2,98.093,2.016
+7,Bound,1.5,6,Rough,3,94.908,2.720
+7,Bound,1.5,6,Rough,4,90.761,4.408
+7,Bound,1.5,6,Rough,5,87.457,5.719
+7,Bound,2.0,6,Rough,1,99.855,0.550
+7,Bound,2.0,6,Rough,2,97.520,2.633
+7,Bound,2.0,6,Rough,3,94.197,4.161
+7,Bound,2.0,6,Rough,4,90.268,4.837
+7,Bound,2.0,6,Rough,5,85.109,7.079
+7,Bound,0.5,7,Mixed Blocks,1,99.830,0.316
+7,Bound,0.5,7,Mixed Blocks,2,99.606,0.982
+7,Bound,0.5,7,Mixed Blocks,3,99.790,0.375
+7,Bound,0.5,7,Mixed Blocks,4,99.578,0.834
+7,Bound,0.5,7,Mixed Blocks,5,99.699,0.548
+7,Bound,1.0,7,Mixed Blocks,1,99.909,0.340
+7,Bound,1.0,7,Mixed Blocks,2,99.493,1.292
+7,Bound,1.0,7,Mixed Blocks,3,99.531,0.848
+7,Bound,1.0,7,Mixed Blocks,4,99.618,1.109
+7,Bound,1.0,7,Mixed Blocks,5,99.319,1.943
+7,Bound,1.5,7,Mixed Blocks,1,99.896,0.440
+7,Bound,1.5,7,Mixed Blocks,2,99.601,1.161
+7,Bound,1.5,7,Mixed Blocks,3,99.205,2.054
+7,Bound,1.5,7,Mixed Blocks,4,98.981,2.653
+7,Bound,1.5,7,Mixed Blocks,5,99.172,2.154
+7,Bound,2.0,7,Mixed Blocks,1,99.855,0.712
+7,Bound,2.0,7,Mixed Blocks,2,99.030,2.064
+7,Bound,2.0,7,Mixed Blocks,3,98.042,4.402
+7,Bound,2.0,7,Mixed Blocks,4,98.350,3.860
+7,Bound,2.0,7,Mixed Blocks,5,98.268,3.221
+8,Canter,0.5,1,Slope Up,1,100.000,0.000
+8,Canter,0.5,1,Slope Up,2,100.000,0.000
+8,Canter,0.5,1,Slope Up,3,100.000,0.000
+8,Canter,0.5,1,Slope Up,4,100.000,0.000
+8,Canter,0.5,1,Slope Up,5,100.000,0.000
+8,Canter,1.0,1,Slope Up,1,100.000,0.000
+8,Canter,1.0,1,Slope Up,2,100.000,0.000
+8,Canter,1.0,1,Slope Up,3,100.000,0.000
+8,Canter,1.0,1,Slope Up,4,100.000,0.000
+8,Canter,1.0,1,Slope Up,5,100.000,0.000
+8,Canter,1.5,1,Slope Up,1,100.000,0.000
+8,Canter,1.5,1,Slope Up,2,100.000,0.000
+8,Canter,1.5,1,Slope Up,3,100.000,0.000
+8,Canter,1.5,1,Slope Up,4,100.000,0.000
+8,Canter,1.5,1,Slope Up,5,100.000,0.000
+8,Canter,2.0,1,Slope Up,1,100.000,0.000
+8,Canter,2.0,1,Slope Up,2,100.000,0.000
+8,Canter,2.0,1,Slope Up,3,100.000,0.000
+8,Canter,2.0,1,Slope Up,4,99.983,0.166
+8,Canter,2.0,1,Slope Up,5,99.952,0.271
+8,Canter,0.5,2,Slope Down,1,100.000,0.000
+8,Canter,0.5,2,Slope Down,2,100.000,0.000
+8,Canter,0.5,2,Slope Down,3,100.000,0.000
+8,Canter,0.5,2,Slope Down,4,100.000,0.000
+8,Canter,0.5,2,Slope Down,5,100.000,0.000
+8,Canter,1.0,2,Slope Down,1,100.000,0.000
+8,Canter,1.0,2,Slope Down,2,100.000,0.000
+8,Canter,1.0,2,Slope Down,3,100.000,0.000
+8,Canter,1.0,2,Slope Down,4,99.397,0.355
+8,Canter,1.0,2,Slope Down,5,99.683,0.444
+8,Canter,1.5,2,Slope Down,1,100.000,0.000
+8,Canter,1.5,2,Slope Down,2,100.000,0.000
+8,Canter,1.5,2,Slope Down,3,100.000,0.000
+8,Canter,1.5,2,Slope Down,4,99.864,0.367
+8,Canter,1.5,2,Slope Down,5,99.775,0.475
+8,Canter,2.0,2,Slope Down,1,100.000,0.000
+8,Canter,2.0,2,Slope Down,2,100.000,0.000
+8,Canter,2.0,2,Slope Down,3,100.000,0.000
+8,Canter,2.0,2,Slope Down,4,100.000,0.000
+8,Canter,2.0,2,Slope Down,5,99.798,0.501
+8,Canter,0.5,3,Stairs Up,1,100.000,0.000
+8,Canter,0.5,3,Stairs Up,2,100.000,0.000
+8,Canter,0.5,3,Stairs Up,3,100.000,0.000
+8,Canter,0.5,3,Stairs Up,4,100.000,0.000
+8,Canter,0.5,3,Stairs Up,5,100.000,0.000
+8,Canter,1.0,3,Stairs Up,1,100.000,0.000
+8,Canter,1.0,3,Stairs Up,2,100.000,0.000
+8,Canter,1.0,3,Stairs Up,3,100.000,0.000
+8,Canter,1.0,3,Stairs Up,4,100.000,0.000
+8,Canter,1.0,3,Stairs Up,5,100.000,0.000
+8,Canter,1.5,3,Stairs Up,1,100.000,0.000
+8,Canter,1.5,3,Stairs Up,2,99.255,0.908
+8,Canter,1.5,3,Stairs Up,3,100.000,0.000
+8,Canter,1.5,3,Stairs Up,4,99.973,0.276
+8,Canter,1.5,3,Stairs Up,5,99.947,0.495
+8,Canter,2.0,3,Stairs Up,1,100.000,0.000
+8,Canter,2.0,3,Stairs Up,2,98.248,1.706
+8,Canter,2.0,3,Stairs Up,3,98.231,1.495
+8,Canter,2.0,3,Stairs Up,4,98.163,1.560
+8,Canter,2.0,3,Stairs Up,5,99.914,0.563
+8,Canter,0.5,4,Stairs Down,1,100.000,0.000
+8,Canter,0.5,4,Stairs Down,2,99.883,0.222
+8,Canter,0.5,4,Stairs Down,3,99.111,0.654
+8,Canter,0.5,4,Stairs Down,4,99.836,0.620
+8,Canter,0.5,4,Stairs Down,5,99.792,0.706
+8,Canter,1.0,4,Stairs Down,1,100.000,0.000
+8,Canter,1.0,4,Stairs Down,2,100.000,0.000
+8,Canter,1.0,4,Stairs Down,3,100.000,0.000
+8,Canter,1.0,4,Stairs Down,4,100.000,0.000
+8,Canter,1.0,4,Stairs Down,5,99.992,0.078
+8,Canter,1.5,4,Stairs Down,1,100.000,0.000
+8,Canter,1.5,4,Stairs Down,2,99.677,0.526
+8,Canter,1.5,4,Stairs Down,3,100.000,0.000
+8,Canter,1.5,4,Stairs Down,4,97.624,1.296
+8,Canter,1.5,4,Stairs Down,5,94.197,1.844
+8,Canter,2.0,4,Stairs Down,1,100.000,0.000
+8,Canter,2.0,4,Stairs Down,2,99.581,0.899
+8,Canter,2.0,4,Stairs Down,3,97.299,2.008
+8,Canter,2.0,4,Stairs Down,4,99.231,0.774
+8,Canter,2.0,4,Stairs Down,5,96.566,1.952
+8,Canter,0.5,5,Gaps,1,98.965,0.870
+8,Canter,0.5,5,Gaps,2,90.507,1.941
+8,Canter,0.5,5,Gaps,3,86.023,0.702
+8,Canter,0.5,5,Gaps,4,91.188,2.288
+8,Canter,0.5,5,Gaps,5,98.461,1.367
+8,Canter,1.0,5,Gaps,1,99.991,0.087
+8,Canter,1.0,5,Gaps,2,95.455,1.750
+8,Canter,1.0,5,Gaps,3,100.000,0.000
+8,Canter,1.0,5,Gaps,4,100.000,0.000
+8,Canter,1.0,5,Gaps,5,100.000,0.000
+8,Canter,1.5,5,Gaps,1,99.352,0.798
+8,Canter,1.5,5,Gaps,2,99.944,0.314
+8,Canter,1.5,5,Gaps,3,99.961,0.259
+8,Canter,1.5,5,Gaps,4,99.942,0.318
+8,Canter,1.5,5,Gaps,5,99.922,0.449
+8,Canter,2.0,5,Gaps,1,100.000,0.000
+8,Canter,2.0,5,Gaps,2,100.000,0.000
+8,Canter,2.0,5,Gaps,3,100.000,0.000
+8,Canter,2.0,5,Gaps,4,100.000,0.000
+8,Canter,2.0,5,Gaps,5,100.000,0.000
+8,Canter,0.5,6,Rough,1,99.959,0.110
+8,Canter,0.5,6,Rough,2,98.864,0.828
+8,Canter,0.5,6,Rough,3,97.366,1.378
+8,Canter,0.5,6,Rough,4,95.366,1.710
+8,Canter,0.5,6,Rough,5,93.958,1.980
+8,Canter,1.0,6,Rough,1,99.900,0.270
+8,Canter,1.0,6,Rough,2,98.868,1.006
+8,Canter,1.0,6,Rough,3,97.032,1.625
+8,Canter,1.0,6,Rough,4,95.095,2.297
+8,Canter,1.0,6,Rough,5,93.689,2.703
+8,Canter,1.5,6,Rough,1,99.929,0.328
+8,Canter,1.5,6,Rough,2,98.473,1.653
+8,Canter,1.5,6,Rough,3,96.943,2.197
+8,Canter,1.5,6,Rough,4,94.446,3.467
+8,Canter,1.5,6,Rough,5,92.001,4.285
+8,Canter,2.0,6,Rough,1,99.950,0.369
+8,Canter,2.0,6,Rough,2,98.738,1.721
+8,Canter,2.0,6,Rough,3,96.720,3.179
+8,Canter,2.0,6,Rough,4,93.838,4.179
+8,Canter,2.0,6,Rough,5,90.370,5.392
+8,Canter,0.5,7,Mixed Blocks,1,99.952,0.121
+8,Canter,0.5,7,Mixed Blocks,2,99.866,0.320
+8,Canter,0.5,7,Mixed Blocks,3,99.527,0.792
+8,Canter,0.5,7,Mixed Blocks,4,99.383,1.019
+8,Canter,0.5,7,Mixed Blocks,5,99.243,1.139
+8,Canter,1.0,7,Mixed Blocks,1,99.928,0.217
+8,Canter,1.0,7,Mixed Blocks,2,99.700,1.136
+8,Canter,1.0,7,Mixed Blocks,3,99.550,1.525
+8,Canter,1.0,7,Mixed Blocks,4,99.278,1.238
+8,Canter,1.0,7,Mixed Blocks,5,98.867,1.822
+8,Canter,1.5,7,Mixed Blocks,1,99.892,0.421
+8,Canter,1.5,7,Mixed Blocks,2,99.389,1.953
+8,Canter,1.5,7,Mixed Blocks,3,99.312,1.437
+8,Canter,1.5,7,Mixed Blocks,4,98.569,2.517
+8,Canter,1.5,7,Mixed Blocks,5,97.838,3.551
+8,Canter,2.0,7,Mixed Blocks,1,99.883,0.496
+8,Canter,2.0,7,Mixed Blocks,2,98.330,3.736
+8,Canter,2.0,7,Mixed Blocks,3,97.755,3.408
+8,Canter,2.0,7,Mixed Blocks,4,98.074,2.964
+8,Canter,2.0,7,Mixed Blocks,5,96.827,3.858
+9,T. Gallop,0.5,1,Slope Up,1,100.000,0.000
+9,T. Gallop,0.5,1,Slope Up,2,100.000,0.000
+9,T. Gallop,0.5,1,Slope Up,3,100.000,0.000
+9,T. Gallop,0.5,1,Slope Up,4,100.000,0.000
+9,T. Gallop,0.5,1,Slope Up,5,100.000,0.000
+9,T. Gallop,1.0,1,Slope Up,1,100.000,0.000
+9,T. Gallop,1.0,1,Slope Up,2,100.000,0.000
+9,T. Gallop,1.0,1,Slope Up,3,100.000,0.000
+9,T. Gallop,1.0,1,Slope Up,4,100.000,0.000
+9,T. Gallop,1.0,1,Slope Up,5,100.000,0.000
+9,T. Gallop,1.5,1,Slope Up,1,100.000,0.000
+9,T. Gallop,1.5,1,Slope Up,2,100.000,0.000
+9,T. Gallop,1.5,1,Slope Up,3,100.000,0.000
+9,T. Gallop,1.5,1,Slope Up,4,100.000,0.000
+9,T. Gallop,1.5,1,Slope Up,5,100.000,0.000
+9,T. Gallop,2.0,1,Slope Up,1,100.000,0.000
+9,T. Gallop,2.0,1,Slope Up,2,100.000,0.000
+9,T. Gallop,2.0,1,Slope Up,3,100.000,0.000
+9,T. Gallop,2.0,1,Slope Up,4,100.000,0.000
+9,T. Gallop,2.0,1,Slope Up,5,100.000,0.000
+9,T. Gallop,0.5,2,Slope Down,1,100.000,0.000
+9,T. Gallop,0.5,2,Slope Down,2,100.000,0.000
+9,T. Gallop,0.5,2,Slope Down,3,100.000,0.000
+9,T. Gallop,0.5,2,Slope Down,4,99.995,0.049
+9,T. Gallop,0.5,2,Slope Down,5,99.482,0.778
+9,T. Gallop,1.0,2,Slope Down,1,100.000,0.000
+9,T. Gallop,1.0,2,Slope Down,2,100.000,0.000
+9,T. Gallop,1.0,2,Slope Down,3,100.000,0.000
+9,T. Gallop,1.0,2,Slope Down,4,99.974,0.147
+9,T. Gallop,1.0,2,Slope Down,5,99.606,0.850
+9,T. Gallop,1.5,2,Slope Down,1,100.000,0.000
+9,T. Gallop,1.5,2,Slope Down,2,100.000,0.000
+9,T. Gallop,1.5,2,Slope Down,3,100.000,0.000
+9,T. Gallop,1.5,2,Slope Down,4,100.000,0.000
+9,T. Gallop,1.5,2,Slope Down,5,99.884,0.348
+9,T. Gallop,2.0,2,Slope Down,1,100.000,0.000
+9,T. Gallop,2.0,2,Slope Down,2,100.000,0.000
+9,T. Gallop,2.0,2,Slope Down,3,100.000,0.000
+9,T. Gallop,2.0,2,Slope Down,4,100.000,0.000
+9,T. Gallop,2.0,2,Slope Down,5,99.836,0.510
+9,T. Gallop,0.5,3,Stairs Up,1,100.000,0.000
+9,T. Gallop,0.5,3,Stairs Up,2,99.897,0.310
+9,T. Gallop,0.5,3,Stairs Up,3,99.988,0.115
+9,T. Gallop,0.5,3,Stairs Up,4,100.000,0.000
+9,T. Gallop,0.5,3,Stairs Up,5,99.937,0.482
+9,T. Gallop,1.0,3,Stairs Up,1,100.000,0.000
+9,T. Gallop,1.0,3,Stairs Up,2,100.000,0.000
+9,T. Gallop,1.0,3,Stairs Up,3,100.000,0.000
+9,T. Gallop,1.0,3,Stairs Up,4,100.000,0.000
+9,T. Gallop,1.0,3,Stairs Up,5,100.000,0.000
+9,T. Gallop,1.5,3,Stairs Up,1,100.000,0.000
+9,T. Gallop,1.5,3,Stairs Up,2,100.000,0.000
+9,T. Gallop,1.5,3,Stairs Up,3,100.000,0.000
+9,T. Gallop,1.5,3,Stairs Up,4,99.016,1.119
+9,T. Gallop,1.5,3,Stairs Up,5,99.106,1.044
+9,T. Gallop,2.0,3,Stairs Up,1,100.000,0.000
+9,T. Gallop,2.0,3,Stairs Up,2,100.000,0.000
+9,T. Gallop,2.0,3,Stairs Up,3,100.000,0.000
+9,T. Gallop,2.0,3,Stairs Up,4,100.000,0.000
+9,T. Gallop,2.0,3,Stairs Up,5,100.000,0.000
+9,T. Gallop,0.5,4,Stairs Down,1,100.000,0.000
+9,T. Gallop,0.5,4,Stairs Down,2,99.917,0.224
+9,T. Gallop,0.5,4,Stairs Down,3,99.960,0.246
+9,T. Gallop,0.5,4,Stairs Down,4,100.000,0.000
+9,T. Gallop,0.5,4,Stairs Down,5,99.982,0.118
+9,T. Gallop,1.0,4,Stairs Down,1,100.000,0.000
+9,T. Gallop,1.0,4,Stairs Down,2,99.953,0.216
+9,T. Gallop,1.0,4,Stairs Down,3,99.836,0.318
+9,T. Gallop,1.0,4,Stairs Down,4,99.844,0.313
+9,T. Gallop,1.0,4,Stairs Down,5,99.929,0.226
+9,T. Gallop,1.5,4,Stairs Down,1,100.000,0.000
+9,T. Gallop,1.5,4,Stairs Down,2,97.738,1.502
+9,T. Gallop,1.5,4,Stairs Down,3,100.000,0.000
+9,T. Gallop,1.5,4,Stairs Down,4,99.972,0.158
+9,T. Gallop,1.5,4,Stairs Down,5,99.882,0.305
+9,T. Gallop,2.0,4,Stairs Down,1,100.000,0.000
+9,T. Gallop,2.0,4,Stairs Down,2,99.430,0.997
+9,T. Gallop,2.0,4,Stairs Down,3,98.959,1.342
+9,T. Gallop,2.0,4,Stairs Down,4,99.886,0.651
+9,T. Gallop,2.0,4,Stairs Down,5,99.000,1.071
+9,T. Gallop,0.5,5,Gaps,1,99.994,0.058
+9,T. Gallop,0.5,5,Gaps,2,97.653,1.400
+9,T. Gallop,0.5,5,Gaps,3,88.385,1.235
+9,T. Gallop,0.5,5,Gaps,4,100.000,0.000
+9,T. Gallop,0.5,5,Gaps,5,99.963,0.217
+9,T. Gallop,1.0,5,Gaps,1,99.852,0.501
+9,T. Gallop,1.0,5,Gaps,2,100.000,0.000
+9,T. Gallop,1.0,5,Gaps,3,100.000,0.000
+9,T. Gallop,1.0,5,Gaps,4,100.000,0.000
+9,T. Gallop,1.0,5,Gaps,5,100.000,0.000
+9,T. Gallop,1.5,5,Gaps,1,100.000,0.000
+9,T. Gallop,1.5,5,Gaps,2,100.000,0.000
+9,T. Gallop,1.5,5,Gaps,3,100.000,0.000
+9,T. Gallop,1.5,5,Gaps,4,100.000,0.000
+9,T. Gallop,1.5,5,Gaps,5,100.000,0.000
+9,T. Gallop,2.0,5,Gaps,1,100.000,0.000
+9,T. Gallop,2.0,5,Gaps,2,100.000,0.000
+9,T. Gallop,2.0,5,Gaps,3,100.000,0.000
+9,T. Gallop,2.0,5,Gaps,4,100.000,0.000
+9,T. Gallop,2.0,5,Gaps,5,100.000,0.000
+9,T. Gallop,0.5,6,Rough,1,99.669,0.381
+9,T. Gallop,0.5,6,Rough,2,97.333,1.290
+9,T. Gallop,0.5,6,Rough,3,95.240,1.941
+9,T. Gallop,0.5,6,Rough,4,92.714,2.090
+9,T. Gallop,0.5,6,Rough,5,91.085,2.488
+9,T. Gallop,1.0,6,Rough,1,99.925,0.227
+9,T. Gallop,1.0,6,Rough,2,98.603,1.181
+9,T. Gallop,1.0,6,Rough,3,96.091,2.367
+9,T. Gallop,1.0,6,Rough,4,92.130,2.995
+9,T. Gallop,1.0,6,Rough,5,90.490,3.843
+9,T. Gallop,1.5,6,Rough,1,99.914,0.310
+9,T. Gallop,1.5,6,Rough,2,98.291,1.814
+9,T. Gallop,1.5,6,Rough,3,95.586,2.806
+9,T. Gallop,1.5,6,Rough,4,91.585,4.263
+9,T. Gallop,1.5,6,Rough,5,89.811,4.344
+9,T. Gallop,2.0,6,Rough,1,99.844,0.603
+9,T. Gallop,2.0,6,Rough,2,97.917,2.269
+9,T. Gallop,2.0,6,Rough,3,95.332,3.334
+9,T. Gallop,2.0,6,Rough,4,91.486,4.122
+9,T. Gallop,2.0,6,Rough,5,87.475,6.891
+9,T. Gallop,0.5,7,Mixed Blocks,1,99.865,0.290
+9,T. Gallop,0.5,7,Mixed Blocks,2,99.700,0.550
+9,T. Gallop,0.5,7,Mixed Blocks,3,99.599,1.045
+9,T. Gallop,0.5,7,Mixed Blocks,4,99.481,0.954
+9,T. Gallop,0.5,7,Mixed Blocks,5,99.444,1.002
+9,T. Gallop,1.0,7,Mixed Blocks,1,99.922,0.258
+9,T. Gallop,1.0,7,Mixed Blocks,2,99.734,1.007
+9,T. Gallop,1.0,7,Mixed Blocks,3,99.578,1.046
+9,T. Gallop,1.0,7,Mixed Blocks,4,99.517,1.096
+9,T. Gallop,1.0,7,Mixed Blocks,5,99.123,2.083
+9,T. Gallop,1.5,7,Mixed Blocks,1,99.876,0.446
+9,T. Gallop,1.5,7,Mixed Blocks,2,99.442,1.795
+9,T. Gallop,1.5,7,Mixed Blocks,3,99.697,0.944
+9,T. Gallop,1.5,7,Mixed Blocks,4,99.216,1.838
+9,T. Gallop,1.5,7,Mixed Blocks,5,99.126,1.957
+9,T. Gallop,2.0,7,Mixed Blocks,1,99.774,0.858
+9,T. Gallop,2.0,7,Mixed Blocks,2,99.154,2.175
+9,T. Gallop,2.0,7,Mixed Blocks,3,99.111,2.124
+9,T. Gallop,2.0,7,Mixed Blocks,4,98.524,3.031
+9,T. Gallop,2.0,7,Mixed Blocks,5,97.716,4.254
+10,R. Gallop,0.5,1,Slope Up,1,100.000,0.000
+10,R. Gallop,0.5,1,Slope Up,2,100.000,0.000
+10,R. Gallop,0.5,1,Slope Up,3,100.000,0.000
+10,R. Gallop,0.5,1,Slope Up,4,100.000,0.000
+10,R. Gallop,0.5,1,Slope Up,5,99.989,0.103
+10,R. Gallop,1.0,1,Slope Up,1,100.000,0.000
+10,R. Gallop,1.0,1,Slope Up,2,100.000,0.000
+10,R. Gallop,1.0,1,Slope Up,3,100.000,0.000
+10,R. Gallop,1.0,1,Slope Up,4,100.000,0.000
+10,R. Gallop,1.0,1,Slope Up,5,100.000,0.000
+10,R. Gallop,1.5,1,Slope Up,1,100.000,0.000
+10,R. Gallop,1.5,1,Slope Up,2,100.000,0.000
+10,R. Gallop,1.5,1,Slope Up,3,100.000,0.000
+10,R. Gallop,1.5,1,Slope Up,4,100.000,0.000
+10,R. Gallop,1.5,1,Slope Up,5,100.000,0.000
+10,R. Gallop,2.0,1,Slope Up,1,100.000,0.000
+10,R. Gallop,2.0,1,Slope Up,2,100.000,0.000
+10,R. Gallop,2.0,1,Slope Up,3,100.000,0.000
+10,R. Gallop,2.0,1,Slope Up,4,100.000,0.000
+10,R. Gallop,2.0,1,Slope Up,5,100.000,0.000
+10,R. Gallop,0.5,2,Slope Down,1,100.000,0.000
+10,R. Gallop,0.5,2,Slope Down,2,100.000,0.000
+10,R. Gallop,0.5,2,Slope Down,3,100.000,0.000
+10,R. Gallop,0.5,2,Slope Down,4,100.000,0.000
+10,R. Gallop,0.5,2,Slope Down,5,99.690,0.670
+10,R. Gallop,1.0,2,Slope Down,1,100.000,0.000
+10,R. Gallop,1.0,2,Slope Down,2,100.000,0.000
+10,R. Gallop,1.0,2,Slope Down,3,100.000,0.000
+10,R. Gallop,1.0,2,Slope Down,4,99.819,0.448
+10,R. Gallop,1.0,2,Slope Down,5,96.230,2.051
+10,R. Gallop,1.5,2,Slope Down,1,100.000,0.000
+10,R. Gallop,1.5,2,Slope Down,2,100.000,0.000
+10,R. Gallop,1.5,2,Slope Down,3,100.000,0.000
+10,R. Gallop,1.5,2,Slope Down,4,100.000,0.000
+10,R. Gallop,1.5,2,Slope Down,5,99.988,0.116
+10,R. Gallop,2.0,2,Slope Down,1,100.000,0.000
+10,R. Gallop,2.0,2,Slope Down,2,100.000,0.000
+10,R. Gallop,2.0,2,Slope Down,3,100.000,0.000
+10,R. Gallop,2.0,2,Slope Down,4,100.000,0.000
+10,R. Gallop,2.0,2,Slope Down,5,100.000,0.000
+10,R. Gallop,0.5,3,Stairs Up,1,100.000,0.000
+10,R. Gallop,0.5,3,Stairs Up,2,99.907,0.213
+10,R. Gallop,0.5,3,Stairs Up,3,100.000,0.000
+10,R. Gallop,0.5,3,Stairs Up,4,100.000,0.000
+10,R. Gallop,0.5,3,Stairs Up,5,99.946,0.169
+10,R. Gallop,1.0,3,Stairs Up,1,100.000,0.000
+10,R. Gallop,1.0,3,Stairs Up,2,100.000,0.000
+10,R. Gallop,1.0,3,Stairs Up,3,100.000,0.000
+10,R. Gallop,1.0,3,Stairs Up,4,100.000,0.000
+10,R. Gallop,1.0,3,Stairs Up,5,100.000,0.000
+10,R. Gallop,1.5,3,Stairs Up,1,100.000,0.000
+10,R. Gallop,1.5,3,Stairs Up,2,100.000,0.000
+10,R. Gallop,1.5,3,Stairs Up,3,100.000,0.000
+10,R. Gallop,1.5,3,Stairs Up,4,99.983,0.163
+10,R. Gallop,1.5,3,Stairs Up,5,99.834,0.656
+10,R. Gallop,2.0,3,Stairs Up,1,100.000,0.000
+10,R. Gallop,2.0,3,Stairs Up,2,100.000,0.000
+10,R. Gallop,2.0,3,Stairs Up,3,100.000,0.000
+10,R. Gallop,2.0,3,Stairs Up,4,99.945,0.306
+10,R. Gallop,2.0,3,Stairs Up,5,99.982,0.175
+10,R. Gallop,0.5,4,Stairs Down,1,99.996,0.038
+10,R. Gallop,0.5,4,Stairs Down,2,99.657,0.556
+10,R. Gallop,0.5,4,Stairs Down,3,98.996,1.337
+10,R. Gallop,0.5,4,Stairs Down,4,99.940,0.281
+10,R. Gallop,0.5,4,Stairs Down,5,99.965,0.158
+10,R. Gallop,1.0,4,Stairs Down,1,100.000,0.000
+10,R. Gallop,1.0,4,Stairs Down,2,99.911,0.275
+10,R. Gallop,1.0,4,Stairs Down,3,100.000,0.000
+10,R. Gallop,1.0,4,Stairs Down,4,100.000,0.000
+10,R. Gallop,1.0,4,Stairs Down,5,100.000,0.000
+10,R. Gallop,1.5,4,Stairs Down,1,100.000,0.000
+10,R. Gallop,1.5,4,Stairs Down,2,97.988,1.576
+10,R. Gallop,1.5,4,Stairs Down,3,99.982,0.125
+10,R. Gallop,1.5,4,Stairs Down,4,99.991,0.089
+10,R. Gallop,1.5,4,Stairs Down,5,99.964,0.175
+10,R. Gallop,2.0,4,Stairs Down,1,100.000,0.000
+10,R. Gallop,2.0,4,Stairs Down,2,99.371,1.046
+10,R. Gallop,2.0,4,Stairs Down,3,96.093,1.995
+10,R. Gallop,2.0,4,Stairs Down,4,99.962,0.230
+10,R. Gallop,2.0,4,Stairs Down,5,99.541,0.547
+10,R. Gallop,0.5,5,Gaps,1,99.899,0.241
+10,R. Gallop,0.5,5,Gaps,2,97.540,1.359
+10,R. Gallop,0.5,5,Gaps,3,91.733,1.140
+10,R. Gallop,0.5,5,Gaps,4,100.000,0.000
+10,R. Gallop,0.5,5,Gaps,5,100.000,0.000
+10,R. Gallop,1.0,5,Gaps,1,99.989,0.104
+10,R. Gallop,1.0,5,Gaps,2,99.812,0.700
+10,R. Gallop,1.0,5,Gaps,3,100.000,0.000
+10,R. Gallop,1.0,5,Gaps,4,100.000,0.000
+10,R. Gallop,1.0,5,Gaps,5,100.000,0.000
+10,R. Gallop,1.5,5,Gaps,1,100.000,0.000
+10,R. Gallop,1.5,5,Gaps,2,100.000,0.000
+10,R. Gallop,1.5,5,Gaps,3,100.000,0.000
+10,R. Gallop,1.5,5,Gaps,4,100.000,0.000
+10,R. Gallop,1.5,5,Gaps,5,100.000,0.000
+10,R. Gallop,2.0,5,Gaps,1,100.000,0.000
+10,R. Gallop,2.0,5,Gaps,2,100.000,0.000
+10,R. Gallop,2.0,5,Gaps,3,100.000,0.000
+10,R. Gallop,2.0,5,Gaps,4,100.000,0.000
+10,R. Gallop,2.0,5,Gaps,5,100.000,0.000
+10,R. Gallop,0.5,6,Rough,1,99.306,0.537
+10,R. Gallop,0.5,6,Rough,2,96.610,1.592
+10,R. Gallop,0.5,6,Rough,3,94.664,1.590
+10,R. Gallop,0.5,6,Rough,4,91.434,2.358
+10,R. Gallop,0.5,6,Rough,5,89.665,2.910
+10,R. Gallop,1.0,6,Rough,1,99.952,0.189
+10,R. Gallop,1.0,6,Rough,2,98.392,1.170
+10,R. Gallop,1.0,6,Rough,3,95.182,2.129
+10,R. Gallop,1.0,6,Rough,4,91.439,3.306
+10,R. Gallop,1.0,6,Rough,5,88.817,4.189
+10,R. Gallop,1.5,6,Rough,1,99.911,0.322
+10,R. Gallop,1.5,6,Rough,2,98.185,1.680
+10,R. Gallop,1.5,6,Rough,3,94.468,3.653
+10,R. Gallop,1.5,6,Rough,4,91.528,3.763
+10,R. Gallop,1.5,6,Rough,5,87.347,5.209
+10,R. Gallop,2.0,6,Rough,1,99.896,0.543
+10,R. Gallop,2.0,6,Rough,2,97.658,2.637
+10,R. Gallop,2.0,6,Rough,3,93.610,4.041
+10,R. Gallop,2.0,6,Rough,4,89.386,5.130
+10,R. Gallop,2.0,6,Rough,5,85.041,6.774
+10,R. Gallop,0.5,7,Mixed Blocks,1,99.803,0.368
+10,R. Gallop,0.5,7,Mixed Blocks,2,99.612,0.763
+10,R. Gallop,0.5,7,Mixed Blocks,3,99.477,0.962
+10,R. Gallop,0.5,7,Mixed Blocks,4,99.575,0.853
+10,R. Gallop,0.5,7,Mixed Blocks,5,99.364,1.169
+10,R. Gallop,1.0,7,Mixed Blocks,1,99.877,0.336
+10,R. Gallop,1.0,7,Mixed Blocks,2,99.535,1.176
+10,R. Gallop,1.0,7,Mixed Blocks,3,99.607,0.858
+10,R. Gallop,1.0,7,Mixed Blocks,4,99.473,1.192
+10,R. Gallop,1.0,7,Mixed Blocks,5,98.936,2.624
+10,R. Gallop,1.5,7,Mixed Blocks,1,99.949,0.310
+10,R. Gallop,1.5,7,Mixed Blocks,2,99.479,1.844
+10,R. Gallop,1.5,7,Mixed Blocks,3,99.458,1.268
+10,R. Gallop,1.5,7,Mixed Blocks,4,99.181,1.922
+10,R. Gallop,1.5,7,Mixed Blocks,5,99.025,2.374
+10,R. Gallop,2.0,7,Mixed Blocks,1,99.826,0.618
+10,R. Gallop,2.0,7,Mixed Blocks,2,98.954,2.798
+10,R. Gallop,2.0,7,Mixed Blocks,3,98.840,2.366
+10,R. Gallop,2.0,7,Mixed Blocks,4,98.096,3.259
+10,R. Gallop,2.0,7,Mixed Blocks,5,97.410,4.348
